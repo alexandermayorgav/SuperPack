@@ -1,0 +1,90 @@
+C:\Users\Alan\Documents\Papeleria\Papeleria\LogicaNegocio\bin\Debug\Papeleria.LogicaNegocio.dll
+C:\Users\Alan\Documents\Papeleria\Papeleria\LogicaNegocio\bin\Debug\Papeleria.LogicaNegocio.pdb
+C:\Users\Alan\Documents\Papeleria\Papeleria\LogicaNegocio\bin\Debug\Papeleria.LogicaNegocio.xml
+C:\Users\Alan\Documents\Papeleria\Papeleria\LogicaNegocio\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Alan\Documents\Papeleria\Papeleria\LogicaNegocio\obj\Debug\Papeleria.LogicaNegocio.Resources.resources
+C:\Users\Alan\Documents\Papeleria\Papeleria\LogicaNegocio\obj\Debug\LogicaNegocio.vbproj.GenerateResource.Cache
+C:\Users\Alan\Documents\Papeleria\Papeleria\LogicaNegocio\obj\Debug\Papeleria.LogicaNegocio.dll
+C:\Users\Alan\Documents\Papeleria\Papeleria\LogicaNegocio\obj\Debug\Papeleria.LogicaNegocio.xml
+C:\Users\Alan\Documents\Papeleria\Papeleria\LogicaNegocio\obj\Debug\Papeleria.LogicaNegocio.pdb
+C:\Users\ac47\Documents\Proyectos\Papeleria\LogicaNegocio\bin\Debug\LogicaNegocio.dll
+C:\Users\ac47\Documents\Proyectos\Papeleria\LogicaNegocio\bin\Debug\LogicaNegocio.pdb
+C:\Users\ac47\Documents\Proyectos\Papeleria\LogicaNegocio\bin\Debug\LogicaNegocio.xml
+C:\Users\ac47\Documents\Proyectos\Papeleria\LogicaNegocio\bin\Debug\AccesoDatos.dll
+C:\Users\ac47\Documents\Proyectos\Papeleria\LogicaNegocio\bin\Debug\FirebirdSql.Data.FirebirdClient.dll
+C:\Users\ac47\Documents\Proyectos\Papeleria\LogicaNegocio\bin\Debug\AccesoDatos.pdb
+C:\Users\ac47\Documents\Proyectos\Papeleria\LogicaNegocio\bin\Debug\AccesoDatos.xml
+C:\Users\ac47\Documents\Proyectos\Papeleria\LogicaNegocio\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ac47\Documents\Proyectos\Papeleria\LogicaNegocio\obj\Debug\LogicaNegocio.Resources.resources
+C:\Users\ac47\Documents\Proyectos\Papeleria\LogicaNegocio\obj\Debug\LogicaNegocio.vbproj.GenerateResource.Cache
+C:\Users\ac47\Documents\Proyectos\Papeleria\LogicaNegocio\obj\Debug\LogicaNegocio.dll
+C:\Users\ac47\Documents\Proyectos\Papeleria\LogicaNegocio\obj\Debug\LogicaNegocio.xml
+C:\Users\ac47\Documents\Proyectos\Papeleria\LogicaNegocio\obj\Debug\LogicaNegocio.pdb
+C:\Users\ac47\Documents\Proyectos\Papeleria\LogicaNegocio\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ac47\Documents\Proyectos\superpack\LogicaNegocio\bin\Debug\LogicaNegocio.dll
+C:\Users\ac47\Documents\Proyectos\superpack\LogicaNegocio\bin\Debug\LogicaNegocio.pdb
+C:\Users\ac47\Documents\Proyectos\superpack\LogicaNegocio\bin\Debug\LogicaNegocio.xml
+C:\Users\ac47\Documents\Proyectos\superpack\LogicaNegocio\bin\Debug\AccesoDatos.dll
+C:\Users\ac47\Documents\Proyectos\superpack\LogicaNegocio\bin\Debug\FirebirdSql.Data.FirebirdClient.dll
+C:\Users\ac47\Documents\Proyectos\superpack\LogicaNegocio\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ac47\Documents\Proyectos\superpack\LogicaNegocio\bin\Debug\AccesoDatos.pdb
+C:\Users\ac47\Documents\Proyectos\superpack\LogicaNegocio\bin\Debug\AccesoDatos.xml
+C:\Users\ac47\Documents\Proyectos\superpack\LogicaNegocio\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ac47\Documents\Proyectos\superpack\LogicaNegocio\obj\Debug\LogicaNegocio.Resources.resources
+C:\Users\ac47\Documents\Proyectos\superpack\LogicaNegocio\obj\Debug\LogicaNegocio.vbproj.GenerateResource.Cache
+C:\Users\ac47\Documents\Proyectos\superpack\LogicaNegocio\obj\Debug\LogicaNegocio.dll
+C:\Users\ac47\Documents\Proyectos\superpack\LogicaNegocio\obj\Debug\LogicaNegocio.xml
+C:\Users\ac47\Documents\Proyectos\superpack\LogicaNegocio\obj\Debug\LogicaNegocio.pdb
+C:\Documents and Settings\Administrador\Mis documentos\Superpack\LogicaNegocio\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Mis documentos\Superpack\LogicaNegocio\obj\Debug\LogicaNegocio.Resources.resources
+C:\Documents and Settings\Administrador\Mis documentos\Superpack\LogicaNegocio\obj\Debug\LogicaNegocio.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Administrador\Mis documentos\Superpack\LogicaNegocio\bin\Debug\LogicaNegocio.dll
+C:\Documents and Settings\Administrador\Mis documentos\Superpack\LogicaNegocio\bin\Debug\LogicaNegocio.pdb
+C:\Documents and Settings\Administrador\Mis documentos\Superpack\LogicaNegocio\bin\Debug\LogicaNegocio.xml
+C:\Documents and Settings\Administrador\Mis documentos\Superpack\LogicaNegocio\bin\Debug\AccesoDatos.dll
+C:\Documents and Settings\Administrador\Mis documentos\Superpack\LogicaNegocio\bin\Debug\FirebirdSql.Data.FirebirdClient.dll
+C:\Documents and Settings\Administrador\Mis documentos\Superpack\LogicaNegocio\bin\Debug\AccesoDatos.pdb
+C:\Documents and Settings\Administrador\Mis documentos\Superpack\LogicaNegocio\bin\Debug\AccesoDatos.xml
+C:\Documents and Settings\Administrador\Mis documentos\Superpack\LogicaNegocio\obj\Debug\LogicaNegocio.dll
+C:\Documents and Settings\Administrador\Mis documentos\Superpack\LogicaNegocio\obj\Debug\LogicaNegocio.xml
+C:\Documents and Settings\Administrador\Mis documentos\Superpack\LogicaNegocio\obj\Debug\LogicaNegocio.pdb
+D:\Documentos\Superpack\LogicaNegocio\bin\Debug\LogicaNegocio.dll
+D:\Documentos\Superpack\LogicaNegocio\bin\Debug\LogicaNegocio.pdb
+D:\Documentos\Superpack\LogicaNegocio\bin\Debug\LogicaNegocio.xml
+D:\Documentos\Superpack\LogicaNegocio\bin\Debug\AccesoDatos.dll
+D:\Documentos\Superpack\LogicaNegocio\bin\Debug\FirebirdSql.Data.FirebirdClient.dll
+D:\Documentos\Superpack\LogicaNegocio\bin\Debug\AccesoDatos.pdb
+D:\Documentos\Superpack\LogicaNegocio\bin\Debug\AccesoDatos.xml
+D:\Documentos\Superpack\LogicaNegocio\obj\Debug\ResolveAssemblyReference.cache
+D:\Documentos\Superpack\LogicaNegocio\obj\Debug\LogicaNegocio.Resources.resources
+D:\Documentos\Superpack\LogicaNegocio\obj\Debug\ResGen.read.1.tlog
+D:\Documentos\Superpack\LogicaNegocio\obj\Debug\ResGen.write.1.tlog
+D:\Documentos\Superpack\LogicaNegocio\obj\Debug\LogicaNegocio.dll
+D:\Documentos\Superpack\LogicaNegocio\obj\Debug\LogicaNegocio.xml
+D:\Documentos\Superpack\LogicaNegocio\obj\Debug\LogicaNegocio.pdb
+C:\Users\DavidAlexander\Documents\Proyectos\Superpack\LogicaNegocio\bin\Debug\LogicaNegocio.dll
+C:\Users\DavidAlexander\Documents\Proyectos\Superpack\LogicaNegocio\bin\Debug\LogicaNegocio.pdb
+C:\Users\DavidAlexander\Documents\Proyectos\Superpack\LogicaNegocio\bin\Debug\LogicaNegocio.xml
+C:\Users\DavidAlexander\Documents\Proyectos\Superpack\LogicaNegocio\bin\Debug\AccesoDatos.dll
+C:\Users\DavidAlexander\Documents\Proyectos\Superpack\LogicaNegocio\bin\Debug\FirebirdSql.Data.FirebirdClient.dll
+C:\Users\DavidAlexander\Documents\Proyectos\Superpack\LogicaNegocio\bin\Debug\AccesoDatos.pdb
+C:\Users\DavidAlexander\Documents\Proyectos\Superpack\LogicaNegocio\bin\Debug\AccesoDatos.xml
+C:\Users\DavidAlexander\Documents\Proyectos\Superpack\LogicaNegocio\obj\Debug\LogicaNegocio.vbprojResolveAssemblyReference.cache
+C:\Users\DavidAlexander\Documents\Proyectos\Superpack\LogicaNegocio\obj\Debug\LogicaNegocio.Resources.resources
+C:\Users\DavidAlexander\Documents\Proyectos\Superpack\LogicaNegocio\obj\Debug\LogicaNegocio.vbproj.GenerateResource.Cache
+C:\Users\DavidAlexander\Documents\Proyectos\Superpack\LogicaNegocio\obj\Debug\LogicaNegocio.dll
+C:\Users\DavidAlexander\Documents\Proyectos\Superpack\LogicaNegocio\obj\Debug\LogicaNegocio.xml
+C:\Users\DavidAlexander\Documents\Proyectos\Superpack\LogicaNegocio\obj\Debug\LogicaNegocio.pdb
+C:\Users\Alexander\Dropbox\Proyectos\Superpack\LogicaNegocio\bin\Debug\LogicaNegocio.dll
+C:\Users\Alexander\Dropbox\Proyectos\Superpack\LogicaNegocio\bin\Debug\LogicaNegocio.pdb
+C:\Users\Alexander\Dropbox\Proyectos\Superpack\LogicaNegocio\bin\Debug\LogicaNegocio.xml
+C:\Users\Alexander\Dropbox\Proyectos\Superpack\LogicaNegocio\bin\Debug\AccesoDatos.dll
+C:\Users\Alexander\Dropbox\Proyectos\Superpack\LogicaNegocio\bin\Debug\FirebirdSql.Data.FirebirdClient.dll
+C:\Users\Alexander\Dropbox\Proyectos\Superpack\LogicaNegocio\bin\Debug\AccesoDatos.pdb
+C:\Users\Alexander\Dropbox\Proyectos\Superpack\LogicaNegocio\bin\Debug\AccesoDatos.xml
+C:\Users\Alexander\Dropbox\Proyectos\Superpack\LogicaNegocio\obj\Debug\LogicaNegocio.vbprojResolveAssemblyReference.cache
+C:\Users\Alexander\Dropbox\Proyectos\Superpack\LogicaNegocio\obj\Debug\LogicaNegocio.Resources.resources
+C:\Users\Alexander\Dropbox\Proyectos\Superpack\LogicaNegocio\obj\Debug\LogicaNegocio.vbproj.GenerateResource.Cache
+C:\Users\Alexander\Dropbox\Proyectos\Superpack\LogicaNegocio\obj\Debug\LogicaNegocio.dll
+C:\Users\Alexander\Dropbox\Proyectos\Superpack\LogicaNegocio\obj\Debug\LogicaNegocio.xml
+C:\Users\Alexander\Dropbox\Proyectos\Superpack\LogicaNegocio\obj\Debug\LogicaNegocio.pdb

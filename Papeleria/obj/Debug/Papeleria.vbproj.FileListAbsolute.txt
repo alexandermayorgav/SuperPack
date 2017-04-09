@@ -1,0 +1,206 @@
+C:\Users\DavidAlexander\Documents\Proyectos\Superpack\Papeleria\bin\Debug\Super Pack.exe.config
+C:\Users\DavidAlexander\Documents\Proyectos\Superpack\Papeleria\obj\Debug\Papeleria.vbproj.ResolveComReference.cache
+C:\Users\DavidAlexander\Documents\Proyectos\Superpack\Papeleria\obj\Debug\Papeleria.vbprojResolveAssemblyReference.cache
+C:\Users\DavidAlexander\Documents\Proyectos\Superpack\Papeleria\obj\Debug\Papeleria.frmCompraSP.resources
+C:\Users\DavidAlexander\Documents\Proyectos\Superpack\Papeleria\obj\Debug\Papeleria.frmConsultaCompras.resources
+C:\Users\DavidAlexander\Documents\Proyectos\Superpack\Papeleria\obj\Debug\Papeleria.frmConsultaSalidas.resources
+C:\Users\DavidAlexander\Documents\Proyectos\Superpack\Papeleria\obj\Debug\Papeleria.frmConsultaVentas.resources
+C:\Users\DavidAlexander\Documents\Proyectos\Superpack\Papeleria\obj\Debug\Papeleria.frmcortes.resources
+C:\Users\DavidAlexander\Documents\Proyectos\Superpack\Papeleria\obj\Debug\Papeleria.frmAbonoCredito.resources
+C:\Users\DavidAlexander\Documents\Proyectos\Superpack\Papeleria\obj\Debug\Papeleria.frmAbonoCuentaPagar.resources
+C:\Users\DavidAlexander\Documents\Proyectos\Superpack\Papeleria\obj\Debug\Papeleria.frmAbonosAp.resources
+C:\Users\DavidAlexander\Documents\Proyectos\Superpack\Papeleria\obj\Debug\Papeleria.frmAdminApartado.resources
+C:\Users\DavidAlexander\Documents\Proyectos\Superpack\Papeleria\obj\Debug\Papeleria.frmAdmonBD.resources
+C:\Users\DavidAlexander\Documents\Proyectos\Superpack\Papeleria\obj\Debug\Papeleria.frmApartado.resources
+C:\Users\DavidAlexander\Documents\Proyectos\Superpack\Papeleria\obj\Debug\Papeleria.frmBuscadorProductos.resources
+C:\Users\DavidAlexander\Documents\Proyectos\Superpack\Papeleria\obj\Debug\Papeleria.frmBuscarApartado.resources
+C:\Users\DavidAlexander\Documents\Proyectos\Superpack\Papeleria\obj\Debug\Papeleria.frmBuscarCliente.resources
+C:\Users\DavidAlexander\Documents\Proyectos\Superpack\Papeleria\obj\Debug\Papeleria.frmBuscarProducto.resources
+C:\Users\DavidAlexander\Documents\Proyectos\Superpack\Papeleria\obj\Debug\Papeleria.frmBuscarProveedor.resources
+C:\Users\DavidAlexander\Documents\Proyectos\Superpack\Papeleria\obj\Debug\Papeleria.frmCaja.resources
+C:\Users\DavidAlexander\Documents\Proyectos\Superpack\Papeleria\obj\Debug\Papeleria.frmCambiarPassword.resources
+C:\Users\DavidAlexander\Documents\Proyectos\Superpack\Papeleria\obj\Debug\Papeleria.frmCambio.resources
+C:\Users\DavidAlexander\Documents\Proyectos\Superpack\Papeleria\obj\Debug\Papeleria.frmCliente.resources
+C:\Users\DavidAlexander\Documents\Proyectos\Superpack\Papeleria\obj\Debug\Papeleria.frmCodigosHermanos.resources
+C:\Users\DavidAlexander\Documents\Proyectos\Superpack\Papeleria\obj\Debug\Papeleria.frmConfiguracion.resources
+C:\Users\DavidAlexander\Documents\Proyectos\Superpack\Papeleria\obj\Debug\Papeleria.frmCotizacion.resources
+C:\Users\DavidAlexander\Documents\Proyectos\Superpack\Papeleria\obj\Debug\Papeleria.frmCuentasPagar.resources
+C:\Users\DavidAlexander\Documents\Proyectos\Superpack\Papeleria\obj\Debug\Papeleria.frmDeudas.resources
+C:\Users\DavidAlexander\Documents\Proyectos\Superpack\Papeleria\obj\Debug\Papeleria.frmDevVenta.resources
+C:\Users\DavidAlexander\Documents\Proyectos\Superpack\Papeleria\obj\Debug\Papeleria.frmEntregarApartado.resources
+C:\Users\DavidAlexander\Documents\Proyectos\Superpack\Papeleria\obj\Debug\Papeleria.frmFaltantes.resources
+C:\Users\DavidAlexander\Documents\Proyectos\Superpack\Papeleria\obj\Debug\Papeleria.frmFolios.resources
+C:\Users\DavidAlexander\Documents\Proyectos\Superpack\Papeleria\obj\Debug\Papeleria.frmFormaPago.resources
+C:\Users\DavidAlexander\Documents\Proyectos\Superpack\Papeleria\obj\Debug\Papeleria.frmHistAutos.resources
+C:\Users\DavidAlexander\Documents\Proyectos\Superpack\Papeleria\obj\Debug\Papeleria.frmImagen.resources
+C:\Users\DavidAlexander\Documents\Proyectos\Superpack\Papeleria\obj\Debug\Papeleria.frmInputBox.resources
+C:\Users\DavidAlexander\Documents\Proyectos\Superpack\Papeleria\obj\Debug\Papeleria.frmInventarios.resources
+C:\Users\DavidAlexander\Documents\Proyectos\Superpack\Papeleria\obj\Debug\Papeleria.frmLineas.resources
+C:\Users\DavidAlexander\Documents\Proyectos\Superpack\Papeleria\obj\Debug\Papeleria.frmLogin.resources
+C:\Users\DavidAlexander\Documents\Proyectos\Superpack\Papeleria\obj\Debug\Papeleria.frmNuevoGrupo.resources
+C:\Users\DavidAlexander\Documents\Proyectos\Superpack\Papeleria\obj\Debug\Papeleria.frmNuevoPersonal.resources
+C:\Users\DavidAlexander\Documents\Proyectos\Superpack\Papeleria\obj\Debug\Papeleria.frmNuevoUsuario.resources
+C:\Users\DavidAlexander\Documents\Proyectos\Superpack\Papeleria\obj\Debug\Papeleria.frmPaquetes.resources
+C:\Users\DavidAlexander\Documents\Proyectos\Superpack\Papeleria\obj\Debug\Papeleria.frmPersonal.resources
+C:\Users\DavidAlexander\Documents\Proyectos\Superpack\Papeleria\obj\Debug\Papeleria.frmPrincipal.resources
+C:\Users\DavidAlexander\Documents\Proyectos\Superpack\Papeleria\obj\Debug\Papeleria.frmProdActualizados.resources
+C:\Users\DavidAlexander\Documents\Proyectos\Superpack\Papeleria\obj\Debug\Papeleria.frmProductos.resources
+C:\Users\DavidAlexander\Documents\Proyectos\Superpack\Papeleria\obj\Debug\Papeleria.frmProductosRelacionados.resources
+C:\Users\DavidAlexander\Documents\Proyectos\Superpack\Papeleria\obj\Debug\Papeleria.frmPromocion.resources
+C:\Users\DavidAlexander\Documents\Proyectos\Superpack\Papeleria\obj\Debug\Papeleria.frmPromociones.resources
+C:\Users\DavidAlexander\Documents\Proyectos\Superpack\Papeleria\obj\Debug\Papeleria.frmPromocionPieza.resources
+C:\Users\DavidAlexander\Documents\Proyectos\Superpack\Papeleria\obj\Debug\Papeleria.frmProveedor.resources
+C:\Users\DavidAlexander\Documents\Proyectos\Superpack\Papeleria\obj\Debug\Papeleria.frmRecepServicio.resources
+C:\Users\DavidAlexander\Documents\Proyectos\Superpack\Papeleria\obj\Debug\Papeleria.frmResumenCompras.resources
+C:\Users\DavidAlexander\Documents\Proyectos\Superpack\Papeleria\obj\Debug\Papeleria.frmResumenVentas.resources
+C:\Users\DavidAlexander\Documents\Proyectos\Superpack\Papeleria\obj\Debug\Papeleria.frmSalidas.resources
+C:\Users\DavidAlexander\Documents\Proyectos\Superpack\Papeleria\obj\Debug\Papeleria.frmTraspaso.resources
+C:\Users\DavidAlexander\Documents\Proyectos\Superpack\Papeleria\obj\Debug\Papeleria.frmUsuarios.resources
+C:\Users\DavidAlexander\Documents\Proyectos\Superpack\Papeleria\obj\Debug\Papeleria.frmVales.resources
+C:\Users\DavidAlexander\Documents\Proyectos\Superpack\Papeleria\obj\Debug\Papeleria.frmVendSinExist.resources
+C:\Users\DavidAlexander\Documents\Proyectos\Superpack\Papeleria\obj\Debug\Papeleria.frmVenta.resources
+C:\Users\DavidAlexander\Documents\Proyectos\Superpack\Papeleria\obj\Debug\Papeleria.frmVerVentas.resources
+C:\Users\DavidAlexander\Documents\Proyectos\Superpack\Papeleria\obj\Debug\Papeleria.ImageButton.resources
+C:\Users\DavidAlexander\Documents\Proyectos\Superpack\Papeleria\obj\Debug\Papeleria.Resources.resources
+C:\Users\DavidAlexander\Documents\Proyectos\Superpack\Papeleria\obj\Debug\Papeleria.FrmDespliegaReporte.resources
+C:\Users\DavidAlexander\Documents\Proyectos\Superpack\Papeleria\obj\Debug\Papeleria.vbproj.GenerateResource.Cache
+C:\Users\DavidAlexander\Documents\Proyectos\Superpack\Papeleria\obj\Debug\RdlCompile.cache
+C:\Users\DavidAlexander\Documents\Proyectos\Superpack\Papeleria\obj\Debug\RdlCompile.compiled
+C:\Users\DavidAlexander\Documents\Proyectos\Superpack\Papeleria\bin\Debug\Reportes\Ventas.rdlc
+C:\Users\DavidAlexander\Documents\Proyectos\Superpack\Papeleria\bin\Debug\Reportes\actualizados.mrp
+C:\Users\DavidAlexander\Documents\Proyectos\Superpack\Papeleria\bin\Debug\Reportes\cuentaspagar.mrp
+C:\Users\DavidAlexander\Documents\Proyectos\Superpack\Papeleria\bin\Debug\Reportes\deudas.mrp
+C:\Users\DavidAlexander\Documents\Proyectos\Superpack\Papeleria\bin\Debug\Reportes\factu.mrp
+C:\Users\DavidAlexander\Documents\Proyectos\Superpack\Papeleria\bin\Debug\Reportes\faltantes.mrp
+C:\Users\DavidAlexander\Documents\Proyectos\Superpack\Papeleria\bin\Debug\Reportes\inventario.mrp
+C:\Users\DavidAlexander\Documents\Proyectos\Superpack\Papeleria\bin\Debug\Ayuda\BManualSistema.pdf
+C:\Users\DavidAlexander\Documents\Proyectos\Superpack\Papeleria\bin\Debug\Reportes\nota.mrp
+C:\Users\DavidAlexander\Documents\Proyectos\Superpack\Papeleria\bin\Debug\Reportes\reportecaja.mrp
+C:\Users\DavidAlexander\Documents\Proyectos\Superpack\Papeleria\bin\Debug\Reportes\reportedecompras.mrp
+C:\Users\DavidAlexander\Documents\Proyectos\Superpack\Papeleria\bin\Debug\Reportes\reportedeventas.mrp
+C:\Users\DavidAlexander\Documents\Proyectos\Superpack\Papeleria\bin\Debug\Reportes\resumen.mrp
+C:\Users\DavidAlexander\Documents\Proyectos\Superpack\Papeleria\bin\Debug\Super Pack.exe.manifest
+C:\Users\DavidAlexander\Documents\Proyectos\Superpack\Papeleria\bin\Debug\Super Pack.application
+C:\Users\DavidAlexander\Documents\Proyectos\Superpack\Papeleria\bin\Debug\Super Pack.exe
+C:\Users\DavidAlexander\Documents\Proyectos\Superpack\Papeleria\bin\Debug\Super Pack.pdb
+C:\Users\DavidAlexander\Documents\Proyectos\Superpack\Papeleria\bin\Debug\Super Pack.xml
+C:\Users\DavidAlexander\Documents\Proyectos\Superpack\Papeleria\bin\Debug\itextsharp.dll
+C:\Users\DavidAlexander\Documents\Proyectos\Superpack\Papeleria\bin\Debug\LogicaNegocio.dll
+C:\Users\DavidAlexander\Documents\Proyectos\Superpack\Papeleria\bin\Debug\MonoReports.dll
+C:\Users\DavidAlexander\Documents\Proyectos\Superpack\Papeleria\bin\Debug\MonoReports.Model.dll
+C:\Users\DavidAlexander\Documents\Proyectos\Superpack\Papeleria\bin\Debug\Newtonsoft.Json.dll
+C:\Users\DavidAlexander\Documents\Proyectos\Superpack\Papeleria\bin\Debug\AccesoDatos.dll
+C:\Users\DavidAlexander\Documents\Proyectos\Superpack\Papeleria\bin\Debug\LogicaNegocio.pdb
+C:\Users\DavidAlexander\Documents\Proyectos\Superpack\Papeleria\bin\Debug\LogicaNegocio.xml
+C:\Users\DavidAlexander\Documents\Proyectos\Superpack\Papeleria\bin\Debug\AccesoDatos.pdb
+C:\Users\DavidAlexander\Documents\Proyectos\Superpack\Papeleria\bin\Debug\AccesoDatos.xml
+C:\Users\DavidAlexander\Documents\Proyectos\Superpack\Papeleria\obj\Debug\Super Pack.exe.manifest
+C:\Users\DavidAlexander\Documents\Proyectos\Superpack\Papeleria\obj\Debug\Super Pack.application
+C:\Users\DavidAlexander\Documents\Proyectos\Superpack\Papeleria\obj\Debug\Super Pack.exe
+C:\Users\DavidAlexander\Documents\Proyectos\Superpack\Papeleria\obj\Debug\Super Pack.xml
+C:\Users\DavidAlexander\Documents\Proyectos\Superpack\Papeleria\obj\Debug\Super Pack.pdb
+C:\Users\Alexander\Dropbox\Proyectos\Superpack\Papeleria\bin\Debug\Super Pack.exe.config
+C:\Users\Alexander\Dropbox\Proyectos\Superpack\Papeleria\obj\Debug\Interop.Crystal.dll
+C:\Users\Alexander\Dropbox\Proyectos\Superpack\Papeleria\obj\Debug\AxInterop.Crystal.dll
+C:\Users\Alexander\Dropbox\Proyectos\Superpack\Papeleria\obj\Debug\Papeleria.vbproj.ResolveComReference.cache
+C:\Users\Alexander\Dropbox\Proyectos\Superpack\Papeleria\obj\Debug\Super Pack.exe
+C:\Users\Alexander\Dropbox\Proyectos\Superpack\Papeleria\obj\Debug\Super Pack.xml
+C:\Users\Alexander\Dropbox\Proyectos\Superpack\Papeleria\obj\Debug\Super Pack.pdb
+C:\Users\Alexander\Dropbox\Proyectos\Superpack\Papeleria\bin\Debug\Reportes\Ventas.rdlc
+C:\Users\Alexander\Dropbox\Proyectos\Superpack\Papeleria\bin\Debug\Reportes\actualizados.mrp
+C:\Users\Alexander\Dropbox\Proyectos\Superpack\Papeleria\bin\Debug\Reportes\cuentaspagar.mrp
+C:\Users\Alexander\Dropbox\Proyectos\Superpack\Papeleria\bin\Debug\Reportes\deudas.mrp
+C:\Users\Alexander\Dropbox\Proyectos\Superpack\Papeleria\bin\Debug\Reportes\factu.mrp
+C:\Users\Alexander\Dropbox\Proyectos\Superpack\Papeleria\bin\Debug\Reportes\faltantes.mrp
+C:\Users\Alexander\Dropbox\Proyectos\Superpack\Papeleria\bin\Debug\Reportes\inventario.mrp
+C:\Users\Alexander\Dropbox\Proyectos\Superpack\Papeleria\bin\Debug\Ayuda\BManualSistema.pdf
+C:\Users\Alexander\Dropbox\Proyectos\Superpack\Papeleria\bin\Debug\Reportes\nota.mrp
+C:\Users\Alexander\Dropbox\Proyectos\Superpack\Papeleria\bin\Debug\Reportes\reportecaja.mrp
+C:\Users\Alexander\Dropbox\Proyectos\Superpack\Papeleria\bin\Debug\Reportes\reportedecompras.mrp
+C:\Users\Alexander\Dropbox\Proyectos\Superpack\Papeleria\bin\Debug\Reportes\reportedeventas.mrp
+C:\Users\Alexander\Dropbox\Proyectos\Superpack\Papeleria\bin\Debug\Reportes\resumen.mrp
+C:\Users\Alexander\Dropbox\Proyectos\Superpack\Papeleria\bin\Debug\Super Pack.exe.manifest
+C:\Users\Alexander\Dropbox\Proyectos\Superpack\Papeleria\bin\Debug\Super Pack.application
+C:\Users\Alexander\Dropbox\Proyectos\Superpack\Papeleria\bin\Debug\Super Pack.exe
+C:\Users\Alexander\Dropbox\Proyectos\Superpack\Papeleria\bin\Debug\Super Pack.pdb
+C:\Users\Alexander\Dropbox\Proyectos\Superpack\Papeleria\bin\Debug\Super Pack.xml
+C:\Users\Alexander\Dropbox\Proyectos\Superpack\Papeleria\bin\Debug\itextsharp.dll
+C:\Users\Alexander\Dropbox\Proyectos\Superpack\Papeleria\bin\Debug\LogicaNegocio.dll
+C:\Users\Alexander\Dropbox\Proyectos\Superpack\Papeleria\bin\Debug\MonoReports.dll
+C:\Users\Alexander\Dropbox\Proyectos\Superpack\Papeleria\bin\Debug\MonoReports.Model.dll
+C:\Users\Alexander\Dropbox\Proyectos\Superpack\Papeleria\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Alexander\Dropbox\Proyectos\Superpack\Papeleria\bin\Debug\AccesoDatos.dll
+C:\Users\Alexander\Dropbox\Proyectos\Superpack\Papeleria\bin\Debug\LogicaNegocio.pdb
+C:\Users\Alexander\Dropbox\Proyectos\Superpack\Papeleria\bin\Debug\LogicaNegocio.xml
+C:\Users\Alexander\Dropbox\Proyectos\Superpack\Papeleria\bin\Debug\AccesoDatos.pdb
+C:\Users\Alexander\Dropbox\Proyectos\Superpack\Papeleria\bin\Debug\AccesoDatos.xml
+C:\Users\Alexander\Dropbox\Proyectos\Superpack\Papeleria\bin\Debug\Interop.Crystal.dll
+C:\Users\Alexander\Dropbox\Proyectos\Superpack\Papeleria\bin\Debug\AxInterop.Crystal.dll
+C:\Users\Alexander\Dropbox\Proyectos\Superpack\Papeleria\obj\Debug\Papeleria.vbprojResolveAssemblyReference.cache
+C:\Users\Alexander\Dropbox\Proyectos\Superpack\Papeleria\obj\Debug\Papeleria.frmCompraSP.resources
+C:\Users\Alexander\Dropbox\Proyectos\Superpack\Papeleria\obj\Debug\Papeleria.frmConsultaCompras.resources
+C:\Users\Alexander\Dropbox\Proyectos\Superpack\Papeleria\obj\Debug\Papeleria.frmConsultaSalidas.resources
+C:\Users\Alexander\Dropbox\Proyectos\Superpack\Papeleria\obj\Debug\Papeleria.frmConsultaVentas.resources
+C:\Users\Alexander\Dropbox\Proyectos\Superpack\Papeleria\obj\Debug\Papeleria.frmcortes.resources
+C:\Users\Alexander\Dropbox\Proyectos\Superpack\Papeleria\obj\Debug\Papeleria.frmAbonoCredito.resources
+C:\Users\Alexander\Dropbox\Proyectos\Superpack\Papeleria\obj\Debug\Papeleria.frmAbonoCuentaPagar.resources
+C:\Users\Alexander\Dropbox\Proyectos\Superpack\Papeleria\obj\Debug\Papeleria.frmAbonosAp.resources
+C:\Users\Alexander\Dropbox\Proyectos\Superpack\Papeleria\obj\Debug\Papeleria.frmAdminApartado.resources
+C:\Users\Alexander\Dropbox\Proyectos\Superpack\Papeleria\obj\Debug\Papeleria.frmAdmonBD.resources
+C:\Users\Alexander\Dropbox\Proyectos\Superpack\Papeleria\obj\Debug\Papeleria.frmApartado.resources
+C:\Users\Alexander\Dropbox\Proyectos\Superpack\Papeleria\obj\Debug\Papeleria.frmBuscadorProductos.resources
+C:\Users\Alexander\Dropbox\Proyectos\Superpack\Papeleria\obj\Debug\Papeleria.frmBuscarApartado.resources
+C:\Users\Alexander\Dropbox\Proyectos\Superpack\Papeleria\obj\Debug\Papeleria.frmBuscarCliente.resources
+C:\Users\Alexander\Dropbox\Proyectos\Superpack\Papeleria\obj\Debug\Papeleria.frmBuscarProducto.resources
+C:\Users\Alexander\Dropbox\Proyectos\Superpack\Papeleria\obj\Debug\Papeleria.frmBuscarProveedor.resources
+C:\Users\Alexander\Dropbox\Proyectos\Superpack\Papeleria\obj\Debug\Papeleria.frmCaja.resources
+C:\Users\Alexander\Dropbox\Proyectos\Superpack\Papeleria\obj\Debug\Papeleria.frmCambiarPassword.resources
+C:\Users\Alexander\Dropbox\Proyectos\Superpack\Papeleria\obj\Debug\Papeleria.frmCambio.resources
+C:\Users\Alexander\Dropbox\Proyectos\Superpack\Papeleria\obj\Debug\Papeleria.frmCliente.resources
+C:\Users\Alexander\Dropbox\Proyectos\Superpack\Papeleria\obj\Debug\Papeleria.frmCodigosHermanos.resources
+C:\Users\Alexander\Dropbox\Proyectos\Superpack\Papeleria\obj\Debug\Papeleria.frmConfiguracion.resources
+C:\Users\Alexander\Dropbox\Proyectos\Superpack\Papeleria\obj\Debug\Papeleria.frmCotizacion.resources
+C:\Users\Alexander\Dropbox\Proyectos\Superpack\Papeleria\obj\Debug\Papeleria.frmCuentasPagar.resources
+C:\Users\Alexander\Dropbox\Proyectos\Superpack\Papeleria\obj\Debug\Papeleria.frmDeudas.resources
+C:\Users\Alexander\Dropbox\Proyectos\Superpack\Papeleria\obj\Debug\Papeleria.frmDevVenta.resources
+C:\Users\Alexander\Dropbox\Proyectos\Superpack\Papeleria\obj\Debug\Papeleria.frmEntregarApartado.resources
+C:\Users\Alexander\Dropbox\Proyectos\Superpack\Papeleria\obj\Debug\Papeleria.frmFaltantes.resources
+C:\Users\Alexander\Dropbox\Proyectos\Superpack\Papeleria\obj\Debug\Papeleria.frmFolios.resources
+C:\Users\Alexander\Dropbox\Proyectos\Superpack\Papeleria\obj\Debug\Papeleria.frmFormaPago.resources
+C:\Users\Alexander\Dropbox\Proyectos\Superpack\Papeleria\obj\Debug\Papeleria.frmHistAutos.resources
+C:\Users\Alexander\Dropbox\Proyectos\Superpack\Papeleria\obj\Debug\Papeleria.frmImagen.resources
+C:\Users\Alexander\Dropbox\Proyectos\Superpack\Papeleria\obj\Debug\Papeleria.frmInputBox.resources
+C:\Users\Alexander\Dropbox\Proyectos\Superpack\Papeleria\obj\Debug\Papeleria.frmInventarios.resources
+C:\Users\Alexander\Dropbox\Proyectos\Superpack\Papeleria\obj\Debug\Papeleria.frmLineas.resources
+C:\Users\Alexander\Dropbox\Proyectos\Superpack\Papeleria\obj\Debug\Papeleria.frmLogin.resources
+C:\Users\Alexander\Dropbox\Proyectos\Superpack\Papeleria\obj\Debug\Papeleria.frmNuevoGrupo.resources
+C:\Users\Alexander\Dropbox\Proyectos\Superpack\Papeleria\obj\Debug\Papeleria.frmNuevoPersonal.resources
+C:\Users\Alexander\Dropbox\Proyectos\Superpack\Papeleria\obj\Debug\Papeleria.frmNuevoUsuario.resources
+C:\Users\Alexander\Dropbox\Proyectos\Superpack\Papeleria\obj\Debug\Papeleria.frmPaquetes.resources
+C:\Users\Alexander\Dropbox\Proyectos\Superpack\Papeleria\obj\Debug\Papeleria.frmPersonal.resources
+C:\Users\Alexander\Dropbox\Proyectos\Superpack\Papeleria\obj\Debug\Papeleria.frmPrincipal.resources
+C:\Users\Alexander\Dropbox\Proyectos\Superpack\Papeleria\obj\Debug\Papeleria.frmProdActualizados.resources
+C:\Users\Alexander\Dropbox\Proyectos\Superpack\Papeleria\obj\Debug\Papeleria.frmProductos.resources
+C:\Users\Alexander\Dropbox\Proyectos\Superpack\Papeleria\obj\Debug\Papeleria.frmProductosRelacionados.resources
+C:\Users\Alexander\Dropbox\Proyectos\Superpack\Papeleria\obj\Debug\Papeleria.frmPromocion.resources
+C:\Users\Alexander\Dropbox\Proyectos\Superpack\Papeleria\obj\Debug\Papeleria.frmPromociones.resources
+C:\Users\Alexander\Dropbox\Proyectos\Superpack\Papeleria\obj\Debug\Papeleria.frmPromocionPieza.resources
+C:\Users\Alexander\Dropbox\Proyectos\Superpack\Papeleria\obj\Debug\Papeleria.frmProveedor.resources
+C:\Users\Alexander\Dropbox\Proyectos\Superpack\Papeleria\obj\Debug\Papeleria.frmRecepServicio.resources
+C:\Users\Alexander\Dropbox\Proyectos\Superpack\Papeleria\obj\Debug\Papeleria.frmResumenCompras.resources
+C:\Users\Alexander\Dropbox\Proyectos\Superpack\Papeleria\obj\Debug\Papeleria.frmResumenVentas.resources
+C:\Users\Alexander\Dropbox\Proyectos\Superpack\Papeleria\obj\Debug\Papeleria.frmSalidas.resources
+C:\Users\Alexander\Dropbox\Proyectos\Superpack\Papeleria\obj\Debug\Papeleria.frmTraspaso.resources
+C:\Users\Alexander\Dropbox\Proyectos\Superpack\Papeleria\obj\Debug\Papeleria.frmUsuarios.resources
+C:\Users\Alexander\Dropbox\Proyectos\Superpack\Papeleria\obj\Debug\Papeleria.frmVales.resources
+C:\Users\Alexander\Dropbox\Proyectos\Superpack\Papeleria\obj\Debug\Papeleria.frmVendSinExist.resources
+C:\Users\Alexander\Dropbox\Proyectos\Superpack\Papeleria\obj\Debug\Papeleria.frmVenta.resources
+C:\Users\Alexander\Dropbox\Proyectos\Superpack\Papeleria\obj\Debug\Papeleria.frmVerVentas.resources
+C:\Users\Alexander\Dropbox\Proyectos\Superpack\Papeleria\obj\Debug\Papeleria.ImageButton.resources
+C:\Users\Alexander\Dropbox\Proyectos\Superpack\Papeleria\obj\Debug\Papeleria.Resources.resources
+C:\Users\Alexander\Dropbox\Proyectos\Superpack\Papeleria\obj\Debug\Papeleria.FrmDespliegaReporte.resources
+C:\Users\Alexander\Dropbox\Proyectos\Superpack\Papeleria\obj\Debug\Papeleria.vbproj.GenerateResource.Cache
+C:\Users\Alexander\Dropbox\Proyectos\Superpack\Papeleria\obj\Debug\RdlCompile.cache
+C:\Users\Alexander\Dropbox\Proyectos\Superpack\Papeleria\obj\Debug\RdlCompile.compiled
+C:\Users\Alexander\Dropbox\Proyectos\Superpack\Papeleria\obj\Debug\Super Pack.exe.manifest
+C:\Users\Alexander\Dropbox\Proyectos\Superpack\Papeleria\obj\Debug\Super Pack.application

@@ -1,0 +1,43 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+LogicaNegocio
+</name>
+</assembly>
+<members>
+<member name="P:LogicaNegocio.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:LogicaNegocio.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:LogicaNegocio.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="M:LogicaNegocio.ReglasNegocioException.#ctor(System.String,System.Exception)">
+	<summary>
+ Construye una instancia con un mensaje de error, 
+ invocando al constructor de la clase base.
+ </summary>
+	<param name="mensaje">El mensaje de error.</param>
+	<param name="original">El error original.</param>
+</member><member name="M:LogicaNegocio.ReglasNegocioException.#ctor(System.String)">
+	<summary>
+ Construye una instancia con un mensaje de error, 
+ invocando al constructor de la clase base.
+ </summary>
+	<param name="mensaje">El mensaje de error.</param>
+</member><member name="T:LogicaNegocio.ReglasNegocioException">
+	<summary>
+ Representa un error genérico producido en las reglas de negocio.
+ De esta clase deben heredar las clases que representen errores 
+ específicos de reglas de negocio.
+ </summary>
+</member>
+</members>
+</doc>

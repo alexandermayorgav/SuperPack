@@ -1,0 +1,15 @@
+C:\Users\Alan\Documents\Papeleria\Papeleria\LogicaNegocio\bin\Release\Papeleria.LogicaNegocio.dll
+C:\Users\Alan\Documents\Papeleria\Papeleria\LogicaNegocio\bin\Release\Papeleria.LogicaNegocio.pdb
+C:\Users\Alan\Documents\Papeleria\Papeleria\LogicaNegocio\bin\Release\Papeleria.LogicaNegocio.xml
+C:\Users\Alan\Documents\Papeleria\Papeleria\LogicaNegocio\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Alan\Documents\Papeleria\Papeleria\LogicaNegocio\obj\Release\Papeleria.LogicaNegocio.Resources.resources
+C:\Users\Alan\Documents\Papeleria\Papeleria\LogicaNegocio\obj\Release\LogicaNegocio.vbproj.GenerateResource.Cache
+C:\Users\Alan\Documents\Papeleria\Papeleria\LogicaNegocio\obj\Release\Papeleria.LogicaNegocio.dll
+C:\Users\Alan\Documents\Papeleria\Papeleria\LogicaNegocio\obj\Release\Papeleria.LogicaNegocio.xml
+C:\Users\Alan\Documents\Papeleria\Papeleria\LogicaNegocio\obj\Release\Papeleria.LogicaNegocio.pdb
+C:\Users\ac47\Documents\Proyectos\Papeleria\LogicaNegocio\obj\Release\ResolveAssemblyReference.cache
+C:\Users\ac47\Documents\Proyectos\Papeleria\LogicaNegocio\obj\Release\LogicaNegocio.Resources.resources
+C:\Users\ac47\Documents\Proyectos\Papeleria\LogicaNegocio\obj\Release\LogicaNegocio.vbproj.GenerateResource.Cache
+D:\Documentos\Superpack\LogicaNegocio\obj\Release\ResolveAssemblyReference.cache
+D:\Documentos\Superpack\LogicaNegocio\obj\Release\ResGen.read.1.tlog
+D:\Documentos\Superpack\LogicaNegocio\obj\Release\ResGen.write.1.tlog

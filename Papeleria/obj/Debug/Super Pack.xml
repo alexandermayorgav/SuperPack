@@ -1,0 +1,46 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+SuperPack
+</name>
+</assembly>
+<members>
+<member name="M:Papeleria.frmInventarios.ImprimirInventario">
+	<summary>
+ Genera el reporte en pdf con la clase ItextSharp
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Papeleria.frmInventarios.CrearColumna(System.String,System.Int32,iTextSharp.text.pdf.PdfPTable@,System.Boolean,System.Boolean)">
+	<summary>
+ Crear las columnas de la tabla
+ </summary>
+	<param name="text">Texto de la columna</param>
+	<param name="tabla">tabla a la que se agregan las columnas</param>
+	<param name="Alineacion">Alineacion del texto 
+ 1 centro
+ 2 derecha
+ </param>
+	<remarks></remarks>
+</member><member name="M:Papeleria.frmInventarios.CrearEncabezado(iTextSharp.text.pdf.PdfPTable@,System.Int32)">
+	<summary>
+ Crear el encabezado de la tabla del reporte
+ </summary>
+	<param name="table"></param>
+	<remarks></remarks>
+</member><member name="P:Papeleria.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:Papeleria.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:Papeleria.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>

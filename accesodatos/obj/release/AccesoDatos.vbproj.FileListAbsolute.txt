@@ -1,0 +1,16 @@
+C:\Users\Alan\Documents\Papeleria\Papeleria\AccesoDatos\bin\Release\Papeleria.AccesoDatos.dll
+C:\Users\Alan\Documents\Papeleria\Papeleria\AccesoDatos\bin\Release\Papeleria.AccesoDatos.pdb
+C:\Users\Alan\Documents\Papeleria\Papeleria\AccesoDatos\bin\Release\Papeleria.AccesoDatos.xml
+C:\Users\Alan\Documents\Papeleria\Papeleria\AccesoDatos\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Alan\Documents\Papeleria\Papeleria\AccesoDatos\obj\Release\Papeleria.AccesoDatos.Resources.resources
+C:\Users\Alan\Documents\Papeleria\Papeleria\AccesoDatos\obj\Release\AccesoDatos.vbproj.GenerateResource.Cache
+C:\Users\Alan\Documents\Papeleria\Papeleria\AccesoDatos\obj\Release\Papeleria.AccesoDatos.dll
+C:\Users\Alan\Documents\Papeleria\Papeleria\AccesoDatos\obj\Release\Papeleria.AccesoDatos.xml
+C:\Users\Alan\Documents\Papeleria\Papeleria\AccesoDatos\obj\Release\Papeleria.AccesoDatos.pdb
+C:\Users\ac47\Documents\Proyectos\Papeleria\AccesoDatos\obj\Release\ResolveAssemblyReference.cache
+C:\Users\ac47\Documents\Proyectos\Papeleria\AccesoDatos\obj\Release\AccesoDatos.Resources.resources
+C:\Users\ac47\Documents\Proyectos\Papeleria\AccesoDatos\obj\Release\AccesoDatos.vbproj.GenerateResource.Cache
+D:\Documentos\Superpack\AccesoDatos\obj\Release\ResolveAssemblyReference.cache
+D:\Documentos\Superpack\AccesoDatos\obj\Release\AccesoDatos.Resources.resources
+D:\Documentos\Superpack\AccesoDatos\obj\Release\ResGen.read.1.tlog
+D:\Documentos\Superpack\AccesoDatos\obj\Release\ResGen.write.1.tlog

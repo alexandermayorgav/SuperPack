@@ -1,0 +1,331 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Papeleria">
+</Property><Property Name="Solution File" Value="D:\Documentos\Superpack\Papeleria.sln">
+</Property><Property Name="User Options File" Value="D:\Documentos\Superpack\Papeleria.suo">
+</Property><Property Name="Date" Value="domingo, 01 de enero de 2012">
+</Property><Property Name="Time" Value="21:52 p.m.">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Papeleria.sln" Description="File successfully backed up as D:\Documentos\Superpack\Backup\Papeleria.sln">
+</Event><Event ErrorLevel="0" Project="" Source="Papeleria.suo" Description="File successfully backed up as D:\Documentos\Superpack\Backup\Papeleria.suo">
+</Event><Event ErrorLevel="0" Project="Papeleria" Source="Papeleria\Papeleria.vbproj" Description="Project file successfully backed up as D:\Documentos\Superpack\Backup\Papeleria\Papeleria.vbproj">
+</Event><Event ErrorLevel="0" Project="Papeleria" Source="Papeleria\Papeleria.vbproj.user" Description="Project user file successfully backed up as D:\Documentos\Superpack\Backup\Papeleria\Papeleria.vbproj.user">
+</Event><Event ErrorLevel="0" Project="Papeleria" Source="Papeleria\frmCompraSP.Designer.vb" Description="File successfully backed up as D:\Documentos\Superpack\Backup\Papeleria\frmCompraSP.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Papeleria" Source="Papeleria\frmCompraSP.vb" Description="File successfully backed up as D:\Documentos\Superpack\Backup\Papeleria\frmCompraSP.vb">
+</Event><Event ErrorLevel="0" Project="Papeleria" Source="Papeleria\frmConsultaCompras.Designer.vb" Description="File successfully backed up as D:\Documentos\Superpack\Backup\Papeleria\frmConsultaCompras.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Papeleria" Source="Papeleria\frmConsultaCompras.vb" Description="File successfully backed up as D:\Documentos\Superpack\Backup\Papeleria\frmConsultaCompras.vb">
+</Event><Event ErrorLevel="0" Project="Papeleria" Source="Papeleria\frmConsultaSalidas.Designer.vb" Description="File successfully backed up as D:\Documentos\Superpack\Backup\Papeleria\frmConsultaSalidas.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Papeleria" Source="Papeleria\frmConsultaSalidas.vb" Description="File successfully backed up as D:\Documentos\Superpack\Backup\Papeleria\frmConsultaSalidas.vb">
+</Event><Event ErrorLevel="0" Project="Papeleria" Source="Papeleria\frmConsultaVentas.Designer.vb" Description="File successfully backed up as D:\Documentos\Superpack\Backup\Papeleria\frmConsultaVentas.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Papeleria" Source="Papeleria\frmConsultaVentas.vb" Description="File successfully backed up as D:\Documentos\Superpack\Backup\Papeleria\frmConsultaVentas.vb">
+</Event><Event ErrorLevel="0" Project="Papeleria" Source="Papeleria\frmCortes.Designer.vb" Description="File successfully backed up as D:\Documentos\Superpack\Backup\Papeleria\frmCortes.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Papeleria" Source="Papeleria\frmCortes.vb" Description="File successfully backed up as D:\Documentos\Superpack\Backup\Papeleria\frmCortes.vb">
+</Event><Event ErrorLevel="0" Project="Papeleria" Source="Papeleria\frmAbonoCredito.Designer.vb" Description="File successfully backed up as D:\Documentos\Superpack\Backup\Papeleria\frmAbonoCredito.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Papeleria" Source="Papeleria\frmAbonoCredito.vb" Description="File successfully backed up as D:\Documentos\Superpack\Backup\Papeleria\frmAbonoCredito.vb">
+</Event><Event ErrorLevel="0" Project="Papeleria" Source="Papeleria\frmAbonoCuentaPagar.Designer.vb" Description="File successfully backed up as D:\Documentos\Superpack\Backup\Papeleria\frmAbonoCuentaPagar.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Papeleria" Source="Papeleria\frmAbonoCuentaPagar.vb" Description="File successfully backed up as D:\Documentos\Superpack\Backup\Papeleria\frmAbonoCuentaPagar.vb">
+</Event><Event ErrorLevel="0" Project="Papeleria" Source="Papeleria\frmAbonosAp.Designer.vb" Description="File successfully backed up as D:\Documentos\Superpack\Backup\Papeleria\frmAbonosAp.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Papeleria" Source="Papeleria\frmAbonosAp.vb" Description="File successfully backed up as D:\Documentos\Superpack\Backup\Papeleria\frmAbonosAp.vb">
+</Event><Event ErrorLevel="0" Project="Papeleria" Source="Papeleria\frmAdminApartado.Designer.vb" Description="File successfully backed up as D:\Documentos\Superpack\Backup\Papeleria\frmAdminApartado.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Papeleria" Source="Papeleria\frmAdminApartado.vb" Description="File successfully backed up as D:\Documentos\Superpack\Backup\Papeleria\frmAdminApartado.vb">
+</Event><Event ErrorLevel="0" Project="Papeleria" Source="Papeleria\frmAdmonBD.Designer.vb" Description="File successfully backed up as D:\Documentos\Superpack\Backup\Papeleria\frmAdmonBD.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Papeleria" Source="Papeleria\frmAdmonBD.vb" Description="File successfully backed up as D:\Documentos\Superpack\Backup\Papeleria\frmAdmonBD.vb">
+</Event><Event ErrorLevel="0" Project="Papeleria" Source="Papeleria\frmApartado.Designer.vb" Description="File successfully backed up as D:\Documentos\Superpack\Backup\Papeleria\frmApartado.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Papeleria" Source="Papeleria\frmApartado.vb" Description="File successfully backed up as D:\Documentos\Superpack\Backup\Papeleria\frmApartado.vb">
+</Event><Event ErrorLevel="0" Project="Papeleria" Source="Papeleria\frmBuscadorProductos.Designer.vb" Description="File successfully backed up as D:\Documentos\Superpack\Backup\Papeleria\frmBuscadorProductos.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Papeleria" Source="Papeleria\frmBuscadorProductos.vb" Description="File successfully backed up as D:\Documentos\Superpack\Backup\Papeleria\frmBuscadorProductos.vb">
+</Event><Event ErrorLevel="0" Project="Papeleria" Source="Papeleria\frmBuscarApartado.Designer.vb" Description="File successfully backed up as D:\Documentos\Superpack\Backup\Papeleria\frmBuscarApartado.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Papeleria" Source="Papeleria\frmBuscarApartado.vb" Description="File successfully backed up as D:\Documentos\Superpack\Backup\Papeleria\frmBuscarApartado.vb">
+</Event><Event ErrorLevel="0" Project="Papeleria" Source="Papeleria\frmBuscarCliente.Designer.vb" Description="File successfully backed up as D:\Documentos\Superpack\Backup\Papeleria\frmBuscarCliente.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Papeleria" Source="Papeleria\frmBuscarCliente.vb" Description="File successfully backed up as D:\Documentos\Superpack\Backup\Papeleria\frmBuscarCliente.vb">
+</Event><Event ErrorLevel="0" Project="Papeleria" Source="Papeleria\frmBuscarProducto.Designer.vb" Description="File successfully backed up as D:\Documentos\Superpack\Backup\Papeleria\frmBuscarProducto.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Papeleria" Source="Papeleria\frmBuscarProducto.vb" Description="File successfully backed up as D:\Documentos\Superpack\Backup\Papeleria\frmBuscarProducto.vb">
+</Event><Event ErrorLevel="0" Project="Papeleria" Source="Papeleria\frmBuscarProveedor.Designer.vb" Description="File successfully backed up as D:\Documentos\Superpack\Backup\Papeleria\frmBuscarProveedor.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Papeleria" Source="Papeleria\frmBuscarProveedor.vb" Description="File successfully backed up as D:\Documentos\Superpack\Backup\Papeleria\frmBuscarProveedor.vb">
+</Event><Event ErrorLevel="0" Project="Papeleria" Source="Papeleria\frmCaja.Designer.vb" Description="File successfully backed up as D:\Documentos\Superpack\Backup\Papeleria\frmCaja.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Papeleria" Source="Papeleria\frmCaja.vb" Description="File successfully backed up as D:\Documentos\Superpack\Backup\Papeleria\frmCaja.vb">
+</Event><Event ErrorLevel="0" Project="Papeleria" Source="Papeleria\frmCambiarPassword.Designer.vb" Description="File successfully backed up as D:\Documentos\Superpack\Backup\Papeleria\frmCambiarPassword.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Papeleria" Source="Papeleria\frmCambiarPassword.vb" Description="File successfully backed up as D:\Documentos\Superpack\Backup\Papeleria\frmCambiarPassword.vb">
+</Event><Event ErrorLevel="0" Project="Papeleria" Source="Papeleria\frmCambio.Designer.vb" Description="File successfully backed up as D:\Documentos\Superpack\Backup\Papeleria\frmCambio.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Papeleria" Source="Papeleria\frmCambio.vb" Description="File successfully backed up as D:\Documentos\Superpack\Backup\Papeleria\frmCambio.vb">
+</Event><Event ErrorLevel="0" Project="Papeleria" Source="Papeleria\frmCliente.Designer.vb" Description="File successfully backed up as D:\Documentos\Superpack\Backup\Papeleria\frmCliente.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Papeleria" Source="Papeleria\frmCliente.vb" Description="File successfully backed up as D:\Documentos\Superpack\Backup\Papeleria\frmCliente.vb">
+</Event><Event ErrorLevel="0" Project="Papeleria" Source="Papeleria\frmCodigosHermanos.Designer.vb" Description="File successfully backed up as D:\Documentos\Superpack\Backup\Papeleria\frmCodigosHermanos.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Papeleria" Source="Papeleria\frmCodigosHermanos.vb" Description="File successfully backed up as D:\Documentos\Superpack\Backup\Papeleria\frmCodigosHermanos.vb">
+</Event><Event ErrorLevel="0" Project="Papeleria" Source="Papeleria\frmConfiguracion.Designer.vb" Description="File successfully backed up as D:\Documentos\Superpack\Backup\Papeleria\frmConfiguracion.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Papeleria" Source="Papeleria\frmConfiguracion.vb" Description="File successfully backed up as D:\Documentos\Superpack\Backup\Papeleria\frmConfiguracion.vb">
+</Event><Event ErrorLevel="0" Project="Papeleria" Source="Papeleria\frmCotizacion.Designer.vb" Description="File successfully backed up as D:\Documentos\Superpack\Backup\Papeleria\frmCotizacion.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Papeleria" Source="Papeleria\frmCotizacion.vb" Description="File successfully backed up as D:\Documentos\Superpack\Backup\Papeleria\frmCotizacion.vb">
+</Event><Event ErrorLevel="0" Project="Papeleria" Source="Papeleria\frmCuentasPagar.Designer.vb" Description="File successfully backed up as D:\Documentos\Superpack\Backup\Papeleria\frmCuentasPagar.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Papeleria" Source="Papeleria\frmCuentasPagar.vb" Description="File successfully backed up as D:\Documentos\Superpack\Backup\Papeleria\frmCuentasPagar.vb">
+</Event><Event ErrorLevel="0" Project="Papeleria" Source="Papeleria\frmDeudas.Designer.vb" Description="File successfully backed up as D:\Documentos\Superpack\Backup\Papeleria\frmDeudas.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Papeleria" Source="Papeleria\frmDeudas.vb" Description="File successfully backed up as D:\Documentos\Superpack\Backup\Papeleria\frmDeudas.vb">
+</Event><Event ErrorLevel="0" Project="Papeleria" Source="Papeleria\frmDevVenta.Designer.vb" Description="File successfully backed up as D:\Documentos\Superpack\Backup\Papeleria\frmDevVenta.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Papeleria" Source="Papeleria\frmDevVenta.vb" Description="File successfully backed up as D:\Documentos\Superpack\Backup\Papeleria\frmDevVenta.vb">
+</Event><Event ErrorLevel="0" Project="Papeleria" Source="Papeleria\frmEntregarApartado.Designer.vb" Description="File successfully backed up as D:\Documentos\Superpack\Backup\Papeleria\frmEntregarApartado.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Papeleria" Source="Papeleria\frmEntregarApartado.vb" Description="File successfully backed up as D:\Documentos\Superpack\Backup\Papeleria\frmEntregarApartado.vb">
+</Event><Event ErrorLevel="0" Project="Papeleria" Source="Papeleria\frmFacturadas.Designer.vb" Description="File successfully backed up as D:\Documentos\Superpack\Backup\Papeleria\frmFacturadas.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Papeleria" Source="Papeleria\frmFacturadas.vb" Description="File successfully backed up as D:\Documentos\Superpack\Backup\Papeleria\frmFacturadas.vb">
+</Event><Event ErrorLevel="0" Project="Papeleria" Source="Papeleria\frmFacturar.Designer.vb" Description="File successfully backed up as D:\Documentos\Superpack\Backup\Papeleria\frmFacturar.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Papeleria" Source="Papeleria\frmFacturar.vb" Description="File successfully backed up as D:\Documentos\Superpack\Backup\Papeleria\frmFacturar.vb">
+</Event><Event ErrorLevel="0" Project="Papeleria" Source="Papeleria\frmFaltantes.Designer.vb" Description="File successfully backed up as D:\Documentos\Superpack\Backup\Papeleria\frmFaltantes.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Papeleria" Source="Papeleria\frmFaltantes.vb" Description="File successfully backed up as D:\Documentos\Superpack\Backup\Papeleria\frmFaltantes.vb">
+</Event><Event ErrorLevel="0" Project="Papeleria" Source="Papeleria\frmFolios.Designer.vb" Description="File successfully backed up as D:\Documentos\Superpack\Backup\Papeleria\frmFolios.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Papeleria" Source="Papeleria\frmFolios.vb" Description="File successfully backed up as D:\Documentos\Superpack\Backup\Papeleria\frmFolios.vb">
+</Event><Event ErrorLevel="0" Project="Papeleria" Source="Papeleria\frmFormaPago.Designer.vb" Description="File successfully backed up as D:\Documentos\Superpack\Backup\Papeleria\frmFormaPago.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Papeleria" Source="Papeleria\frmFormaPago.vb" Description="File successfully backed up as D:\Documentos\Superpack\Backup\Papeleria\frmFormaPago.vb">
+</Event><Event ErrorLevel="0" Project="Papeleria" Source="Papeleria\frmHistAutos.Designer.vb" Description="File successfully backed up as D:\Documentos\Superpack\Backup\Papeleria\frmHistAutos.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Papeleria" Source="Papeleria\frmHistAutos.vb" Description="File successfully backed up as D:\Documentos\Superpack\Backup\Papeleria\frmHistAutos.vb">
+</Event><Event ErrorLevel="0" Project="Papeleria" Source="Papeleria\frmImagen.Designer.vb" Description="File successfully backed up as D:\Documentos\Superpack\Backup\Papeleria\frmImagen.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Papeleria" Source="Papeleria\frmImagen.vb" Description="File successfully backed up as D:\Documentos\Superpack\Backup\Papeleria\frmImagen.vb">
+</Event><Event ErrorLevel="0" Project="Papeleria" Source="Papeleria\frmInputBox.Designer.vb" Description="File successfully backed up as D:\Documentos\Superpack\Backup\Papeleria\frmInputBox.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Papeleria" Source="Papeleria\frmInputBox.vb" Description="File successfully backed up as D:\Documentos\Superpack\Backup\Papeleria\frmInputBox.vb">
+</Event><Event ErrorLevel="0" Project="Papeleria" Source="Papeleria\frmInventarios.Designer.vb" Description="File successfully backed up as D:\Documentos\Superpack\Backup\Papeleria\frmInventarios.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Papeleria" Source="Papeleria\frmInventarios.vb" Description="File successfully backed up as D:\Documentos\Superpack\Backup\Papeleria\frmInventarios.vb">
+</Event><Event ErrorLevel="0" Project="Papeleria" Source="Papeleria\frmLineas.Designer.vb" Description="File successfully backed up as D:\Documentos\Superpack\Backup\Papeleria\frmLineas.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Papeleria" Source="Papeleria\frmLineas.vb" Description="File successfully backed up as D:\Documentos\Superpack\Backup\Papeleria\frmLineas.vb">
+</Event><Event ErrorLevel="0" Project="Papeleria" Source="Papeleria\frmLogin.Designer.vb" Description="File successfully backed up as D:\Documentos\Superpack\Backup\Papeleria\frmLogin.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Papeleria" Source="Papeleria\frmLogin.vb" Description="File successfully backed up as D:\Documentos\Superpack\Backup\Papeleria\frmLogin.vb">
+</Event><Event ErrorLevel="0" Project="Papeleria" Source="Papeleria\frmNuevoGrupo.Designer.vb" Description="File successfully backed up as D:\Documentos\Superpack\Backup\Papeleria\frmNuevoGrupo.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Papeleria" Source="Papeleria\frmNuevoGrupo.vb" Description="File successfully backed up as D:\Documentos\Superpack\Backup\Papeleria\frmNuevoGrupo.vb">
+</Event><Event ErrorLevel="0" Project="Papeleria" Source="Papeleria\frmNuevoPersonal.Designer.vb" Description="File successfully backed up as D:\Documentos\Superpack\Backup\Papeleria\frmNuevoPersonal.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Papeleria" Source="Papeleria\frmNuevoPersonal.vb" Description="File successfully backed up as D:\Documentos\Superpack\Backup\Papeleria\frmNuevoPersonal.vb">
+</Event><Event ErrorLevel="0" Project="Papeleria" Source="Papeleria\frmNuevoUsuario.Designer.vb" Description="File successfully backed up as D:\Documentos\Superpack\Backup\Papeleria\frmNuevoUsuario.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Papeleria" Source="Papeleria\frmNuevoUsuario.vb" Description="File successfully backed up as D:\Documentos\Superpack\Backup\Papeleria\frmNuevoUsuario.vb">
+</Event><Event ErrorLevel="0" Project="Papeleria" Source="Papeleria\frmPaquetes.Designer.vb" Description="File successfully backed up as D:\Documentos\Superpack\Backup\Papeleria\frmPaquetes.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Papeleria" Source="Papeleria\frmPaquetes.vb" Description="File successfully backed up as D:\Documentos\Superpack\Backup\Papeleria\frmPaquetes.vb">
+</Event><Event ErrorLevel="0" Project="Papeleria" Source="Papeleria\frmPersonal.Designer.vb" Description="File successfully backed up as D:\Documentos\Superpack\Backup\Papeleria\frmPersonal.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Papeleria" Source="Papeleria\frmPersonal.vb" Description="File successfully backed up as D:\Documentos\Superpack\Backup\Papeleria\frmPersonal.vb">
+</Event><Event ErrorLevel="0" Project="Papeleria" Source="Papeleria\frmPrincipal.Designer.vb" Description="File successfully backed up as D:\Documentos\Superpack\Backup\Papeleria\frmPrincipal.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Papeleria" Source="Papeleria\frmPrincipal.vb" Description="File successfully backed up as D:\Documentos\Superpack\Backup\Papeleria\frmPrincipal.vb">
+</Event><Event ErrorLevel="0" Project="Papeleria" Source="Papeleria\frmProdActualizados.Designer.vb" Description="File successfully backed up as D:\Documentos\Superpack\Backup\Papeleria\frmProdActualizados.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Papeleria" Source="Papeleria\frmProdActualizados.vb" Description="File successfully backed up as D:\Documentos\Superpack\Backup\Papeleria\frmProdActualizados.vb">
+</Event><Event ErrorLevel="0" Project="Papeleria" Source="Papeleria\frmProductos.Designer.vb" Description="File successfully backed up as D:\Documentos\Superpack\Backup\Papeleria\frmProductos.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Papeleria" Source="Papeleria\frmProductos.vb" Description="File successfully backed up as D:\Documentos\Superpack\Backup\Papeleria\frmProductos.vb">
+</Event><Event ErrorLevel="0" Project="Papeleria" Source="Papeleria\frmProductosRelacionados.Designer.vb" Description="File successfully backed up as D:\Documentos\Superpack\Backup\Papeleria\frmProductosRelacionados.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Papeleria" Source="Papeleria\frmProductosRelacionados.vb" Description="File successfully backed up as D:\Documentos\Superpack\Backup\Papeleria\frmProductosRelacionados.vb">
+</Event><Event ErrorLevel="0" Project="Papeleria" Source="Papeleria\frmPromocion.Designer.vb" Description="File successfully backed up as D:\Documentos\Superpack\Backup\Papeleria\frmPromocion.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Papeleria" Source="Papeleria\frmPromocion.vb" Description="File successfully backed up as D:\Documentos\Superpack\Backup\Papeleria\frmPromocion.vb">
+</Event><Event ErrorLevel="0" Project="Papeleria" Source="Papeleria\frmPromociones.Designer.vb" Description="File successfully backed up as D:\Documentos\Superpack\Backup\Papeleria\frmPromociones.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Papeleria" Source="Papeleria\frmPromociones.vb" Description="File successfully backed up as D:\Documentos\Superpack\Backup\Papeleria\frmPromociones.vb">
+</Event><Event ErrorLevel="0" Project="Papeleria" Source="Papeleria\frmPromocionPieza.Designer.vb" Description="File successfully backed up as D:\Documentos\Superpack\Backup\Papeleria\frmPromocionPieza.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Papeleria" Source="Papeleria\frmPromocionPieza.vb" Description="File successfully backed up as D:\Documentos\Superpack\Backup\Papeleria\frmPromocionPieza.vb">
+</Event><Event ErrorLevel="0" Project="Papeleria" Source="Papeleria\frmProveedor.Designer.vb" Description="File successfully backed up as D:\Documentos\Superpack\Backup\Papeleria\frmProveedor.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Papeleria" Source="Papeleria\frmProveedor.vb" Description="File successfully backed up as D:\Documentos\Superpack\Backup\Papeleria\frmProveedor.vb">
+</Event><Event ErrorLevel="0" Project="Papeleria" Source="Papeleria\frmRecepServicio.Designer.vb" Description="File successfully backed up as D:\Documentos\Superpack\Backup\Papeleria\frmRecepServicio.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Papeleria" Source="Papeleria\frmRecepServicio.vb" Description="File successfully backed up as D:\Documentos\Superpack\Backup\Papeleria\frmRecepServicio.vb">
+</Event><Event ErrorLevel="0" Project="Papeleria" Source="Papeleria\frmResumenCompras.Designer.vb" Description="File successfully backed up as D:\Documentos\Superpack\Backup\Papeleria\frmResumenCompras.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Papeleria" Source="Papeleria\frmResumenCompras.vb" Description="File successfully backed up as D:\Documentos\Superpack\Backup\Papeleria\frmResumenCompras.vb">
+</Event><Event ErrorLevel="0" Project="Papeleria" Source="Papeleria\frmResumenVentas.Designer.vb" Description="File successfully backed up as D:\Documentos\Superpack\Backup\Papeleria\frmResumenVentas.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Papeleria" Source="Papeleria\frmResumenVentas.vb" Description="File successfully backed up as D:\Documentos\Superpack\Backup\Papeleria\frmResumenVentas.vb">
+</Event><Event ErrorLevel="0" Project="Papeleria" Source="Papeleria\frmSalidas.Designer.vb" Description="File successfully backed up as D:\Documentos\Superpack\Backup\Papeleria\frmSalidas.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Papeleria" Source="Papeleria\frmSalidas.vb" Description="File successfully backed up as D:\Documentos\Superpack\Backup\Papeleria\frmSalidas.vb">
+</Event><Event ErrorLevel="0" Project="Papeleria" Source="Papeleria\frmSegServicio.Designer.vb" Description="File successfully backed up as D:\Documentos\Superpack\Backup\Papeleria\frmSegServicio.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Papeleria" Source="Papeleria\frmTraspaso.designer.vb" Description="File successfully backed up as D:\Documentos\Superpack\Backup\Papeleria\frmTraspaso.designer.vb">
+</Event><Event ErrorLevel="0" Project="Papeleria" Source="Papeleria\frmTraspaso.vb" Description="File successfully backed up as D:\Documentos\Superpack\Backup\Papeleria\frmTraspaso.vb">
+</Event><Event ErrorLevel="0" Project="Papeleria" Source="Papeleria\frmUsuarios.Designer.vb" Description="File successfully backed up as D:\Documentos\Superpack\Backup\Papeleria\frmUsuarios.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Papeleria" Source="Papeleria\frmUsuarios.vb" Description="File successfully backed up as D:\Documentos\Superpack\Backup\Papeleria\frmUsuarios.vb">
+</Event><Event ErrorLevel="0" Project="Papeleria" Source="Papeleria\frmVales.Designer.vb" Description="File successfully backed up as D:\Documentos\Superpack\Backup\Papeleria\frmVales.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Papeleria" Source="Papeleria\frmVales.vb" Description="File successfully backed up as D:\Documentos\Superpack\Backup\Papeleria\frmVales.vb">
+</Event><Event ErrorLevel="0" Project="Papeleria" Source="Papeleria\frmVendSinExist.Designer.vb" Description="File successfully backed up as D:\Documentos\Superpack\Backup\Papeleria\frmVendSinExist.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Papeleria" Source="Papeleria\frmVendSinExist.vb" Description="File successfully backed up as D:\Documentos\Superpack\Backup\Papeleria\frmVendSinExist.vb">
+</Event><Event ErrorLevel="0" Project="Papeleria" Source="Papeleria\frmVenta.Designer.vb" Description="File successfully backed up as D:\Documentos\Superpack\Backup\Papeleria\frmVenta.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Papeleria" Source="Papeleria\frmVenta.vb" Description="File successfully backed up as D:\Documentos\Superpack\Backup\Papeleria\frmVenta.vb">
+</Event><Event ErrorLevel="0" Project="Papeleria" Source="Papeleria\frmVerVentas.Designer.vb" Description="File successfully backed up as D:\Documentos\Superpack\Backup\Papeleria\frmVerVentas.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Papeleria" Source="Papeleria\frmVerVentas.vb" Description="File successfully backed up as D:\Documentos\Superpack\Backup\Papeleria\frmVerVentas.vb">
+</Event><Event ErrorLevel="0" Project="Papeleria" Source="Papeleria\ImageButton.Designer.vb" Description="File successfully backed up as D:\Documentos\Superpack\Backup\Papeleria\ImageButton.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Papeleria" Source="Papeleria\ImageButton.vb" Description="File successfully backed up as D:\Documentos\Superpack\Backup\Papeleria\ImageButton.vb">
+</Event><Event ErrorLevel="0" Project="Papeleria" Source="Papeleria\Imprime.vb" Description="File successfully backed up as D:\Documentos\Superpack\Backup\Papeleria\Imprime.vb">
+</Event><Event ErrorLevel="0" Project="Papeleria" Source="Papeleria\Mover.vb" Description="File successfully backed up as D:\Documentos\Superpack\Backup\Papeleria\Mover.vb">
+</Event><Event ErrorLevel="0" Project="Papeleria" Source="Papeleria\My Project\AssemblyInfo.vb" Description="File successfully backed up as D:\Documentos\Superpack\Backup\Papeleria\My Project\AssemblyInfo.vb">
+</Event><Event ErrorLevel="0" Project="Papeleria" Source="Papeleria\My Project\Application.Designer.vb" Description="File successfully backed up as D:\Documentos\Superpack\Backup\Papeleria\My Project\Application.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Papeleria" Source="Papeleria\My Project\Resources.Designer.vb" Description="File successfully backed up as D:\Documentos\Superpack\Backup\Papeleria\My Project\Resources.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Papeleria" Source="Papeleria\My Project\Settings.Designer.vb" Description="File successfully backed up as D:\Documentos\Superpack\Backup\Papeleria\My Project\Settings.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Papeleria" Source="Papeleria\Sesion.vb" Description="File successfully backed up as D:\Documentos\Superpack\Backup\Papeleria\Sesion.vb">
+</Event><Event ErrorLevel="0" Project="Papeleria" Source="Papeleria\My Project\Application.myapp" Description="File successfully backed up as D:\Documentos\Superpack\Backup\Papeleria\My Project\Application.myapp">
+</Event><Event ErrorLevel="0" Project="Papeleria" Source="Papeleria\My Project\Settings.settings" Description="File successfully backed up as D:\Documentos\Superpack\Backup\Papeleria\My Project\Settings.settings">
+</Event><Event ErrorLevel="0" Project="Papeleria" Source="Papeleria\frmCompraSP.resx" Description="File successfully backed up as D:\Documentos\Superpack\Backup\Papeleria\frmCompraSP.resx">
+</Event><Event ErrorLevel="0" Project="Papeleria" Source="Papeleria\frmConsultaCompras.resx" Description="File successfully backed up as D:\Documentos\Superpack\Backup\Papeleria\frmConsultaCompras.resx">
+</Event><Event ErrorLevel="0" Project="Papeleria" Source="Papeleria\frmConsultaSalidas.resx" Description="File successfully backed up as D:\Documentos\Superpack\Backup\Papeleria\frmConsultaSalidas.resx">
+</Event><Event ErrorLevel="0" Project="Papeleria" Source="Papeleria\frmConsultaVentas.resx" Description="File successfully backed up as D:\Documentos\Superpack\Backup\Papeleria\frmConsultaVentas.resx">
+</Event><Event ErrorLevel="0" Project="Papeleria" Source="Papeleria\frmCortes.resx" Description="File successfully backed up as D:\Documentos\Superpack\Backup\Papeleria\frmCortes.resx">
+</Event><Event ErrorLevel="0" Project="Papeleria" Source="Papeleria\frmAbonoCredito.resx" Description="File successfully backed up as D:\Documentos\Superpack\Backup\Papeleria\frmAbonoCredito.resx">
+</Event><Event ErrorLevel="0" Project="Papeleria" Source="Papeleria\frmAbonoCuentaPagar.resx" Description="File successfully backed up as D:\Documentos\Superpack\Backup\Papeleria\frmAbonoCuentaPagar.resx">
+</Event><Event ErrorLevel="0" Project="Papeleria" Source="Papeleria\frmAbonosAp.resx" Description="File successfully backed up as D:\Documentos\Superpack\Backup\Papeleria\frmAbonosAp.resx">
+</Event><Event ErrorLevel="0" Project="Papeleria" Source="Papeleria\frmAdminApartado.resx" Description="File successfully backed up as D:\Documentos\Superpack\Backup\Papeleria\frmAdminApartado.resx">
+</Event><Event ErrorLevel="0" Project="Papeleria" Source="Papeleria\frmAdmonBD.resx" Description="File successfully backed up as D:\Documentos\Superpack\Backup\Papeleria\frmAdmonBD.resx">
+</Event><Event ErrorLevel="0" Project="Papeleria" Source="Papeleria\frmApartado.resx" Description="File successfully backed up as D:\Documentos\Superpack\Backup\Papeleria\frmApartado.resx">
+</Event><Event ErrorLevel="0" Project="Papeleria" Source="Papeleria\frmBuscadorProductos.resx" Description="File successfully backed up as D:\Documentos\Superpack\Backup\Papeleria\frmBuscadorProductos.resx">
+</Event><Event ErrorLevel="0" Project="Papeleria" Source="Papeleria\frmBuscarApartado.resx" Description="File successfully backed up as D:\Documentos\Superpack\Backup\Papeleria\frmBuscarApartado.resx">
+</Event><Event ErrorLevel="0" Project="Papeleria" Source="Papeleria\frmBuscarCliente.resx" Description="File successfully backed up as D:\Documentos\Superpack\Backup\Papeleria\frmBuscarCliente.resx">
+</Event><Event ErrorLevel="0" Project="Papeleria" Source="Papeleria\frmBuscarProducto.resx" Description="File successfully backed up as D:\Documentos\Superpack\Backup\Papeleria\frmBuscarProducto.resx">
+</Event><Event ErrorLevel="0" Project="Papeleria" Source="Papeleria\frmBuscarProveedor.resx" Description="File successfully backed up as D:\Documentos\Superpack\Backup\Papeleria\frmBuscarProveedor.resx">
+</Event><Event ErrorLevel="0" Project="Papeleria" Source="Papeleria\frmCaja.resx" Description="File successfully backed up as D:\Documentos\Superpack\Backup\Papeleria\frmCaja.resx">
+</Event><Event ErrorLevel="0" Project="Papeleria" Source="Papeleria\frmCambiarPassword.resx" Description="File successfully backed up as D:\Documentos\Superpack\Backup\Papeleria\frmCambiarPassword.resx">
+</Event><Event ErrorLevel="0" Project="Papeleria" Source="Papeleria\frmCambio.resx" Description="File successfully backed up as D:\Documentos\Superpack\Backup\Papeleria\frmCambio.resx">
+</Event><Event ErrorLevel="0" Project="Papeleria" Source="Papeleria\frmCliente.resx" Description="File successfully backed up as D:\Documentos\Superpack\Backup\Papeleria\frmCliente.resx">
+</Event><Event ErrorLevel="0" Project="Papeleria" Source="Papeleria\frmCodigosHermanos.resx" Description="File successfully backed up as D:\Documentos\Superpack\Backup\Papeleria\frmCodigosHermanos.resx">
+</Event><Event ErrorLevel="0" Project="Papeleria" Source="Papeleria\frmConfiguracion.resx" Description="File successfully backed up as D:\Documentos\Superpack\Backup\Papeleria\frmConfiguracion.resx">
+</Event><Event ErrorLevel="0" Project="Papeleria" Source="Papeleria\frmCotizacion.resx" Description="File successfully backed up as D:\Documentos\Superpack\Backup\Papeleria\frmCotizacion.resx">
+</Event><Event ErrorLevel="0" Project="Papeleria" Source="Papeleria\frmCuentasPagar.resx" Description="File successfully backed up as D:\Documentos\Superpack\Backup\Papeleria\frmCuentasPagar.resx">
+</Event><Event ErrorLevel="0" Project="Papeleria" Source="Papeleria\frmDeudas.resx" Description="File successfully backed up as D:\Documentos\Superpack\Backup\Papeleria\frmDeudas.resx">
+</Event><Event ErrorLevel="0" Project="Papeleria" Source="Papeleria\frmDevVenta.resx" Description="File successfully backed up as D:\Documentos\Superpack\Backup\Papeleria\frmDevVenta.resx">
+</Event><Event ErrorLevel="0" Project="Papeleria" Source="Papeleria\frmEntregarApartado.resx" Description="File successfully backed up as D:\Documentos\Superpack\Backup\Papeleria\frmEntregarApartado.resx">
+</Event><Event ErrorLevel="0" Project="Papeleria" Source="Papeleria\frmFacturadas.resx" Description="File successfully backed up as D:\Documentos\Superpack\Backup\Papeleria\frmFacturadas.resx">
+</Event><Event ErrorLevel="0" Project="Papeleria" Source="Papeleria\frmFacturar.resx" Description="File successfully backed up as D:\Documentos\Superpack\Backup\Papeleria\frmFacturar.resx">
+</Event><Event ErrorLevel="0" Project="Papeleria" Source="Papeleria\frmFaltantes.resx" Description="File successfully backed up as D:\Documentos\Superpack\Backup\Papeleria\frmFaltantes.resx">
+</Event><Event ErrorLevel="0" Project="Papeleria" Source="Papeleria\frmFolios.resx" Description="File successfully backed up as D:\Documentos\Superpack\Backup\Papeleria\frmFolios.resx">
+</Event><Event ErrorLevel="0" Project="Papeleria" Source="Papeleria\frmFormaPago.resx" Description="File successfully backed up as D:\Documentos\Superpack\Backup\Papeleria\frmFormaPago.resx">
+</Event><Event ErrorLevel="0" Project="Papeleria" Source="Papeleria\frmHistAutos.resx" Description="File successfully backed up as D:\Documentos\Superpack\Backup\Papeleria\frmHistAutos.resx">
+</Event><Event ErrorLevel="0" Project="Papeleria" Source="Papeleria\frmImagen.resx" Description="File successfully backed up as D:\Documentos\Superpack\Backup\Papeleria\frmImagen.resx">
+</Event><Event ErrorLevel="0" Project="Papeleria" Source="Papeleria\frmInputBox.resx" Description="File successfully backed up as D:\Documentos\Superpack\Backup\Papeleria\frmInputBox.resx">
+</Event><Event ErrorLevel="0" Project="Papeleria" Source="Papeleria\frmInventarios.resx" Description="File successfully backed up as D:\Documentos\Superpack\Backup\Papeleria\frmInventarios.resx">
+</Event><Event ErrorLevel="0" Project="Papeleria" Source="Papeleria\frmLineas.resx" Description="File successfully backed up as D:\Documentos\Superpack\Backup\Papeleria\frmLineas.resx">
+</Event><Event ErrorLevel="0" Project="Papeleria" Source="Papeleria\frmLogin.resx" Description="File successfully backed up as D:\Documentos\Superpack\Backup\Papeleria\frmLogin.resx">
+</Event><Event ErrorLevel="0" Project="Papeleria" Source="Papeleria\frmNuevoGrupo.resx" Description="File successfully backed up as D:\Documentos\Superpack\Backup\Papeleria\frmNuevoGrupo.resx">
+</Event><Event ErrorLevel="0" Project="Papeleria" Source="Papeleria\frmNuevoPersonal.resx" Description="File successfully backed up as D:\Documentos\Superpack\Backup\Papeleria\frmNuevoPersonal.resx">
+</Event><Event ErrorLevel="0" Project="Papeleria" Source="Papeleria\frmNuevoUsuario.resx" Description="File successfully backed up as D:\Documentos\Superpack\Backup\Papeleria\frmNuevoUsuario.resx">
+</Event><Event ErrorLevel="0" Project="Papeleria" Source="Papeleria\frmPaquetes.resx" Description="File successfully backed up as D:\Documentos\Superpack\Backup\Papeleria\frmPaquetes.resx">
+</Event><Event ErrorLevel="0" Project="Papeleria" Source="Papeleria\frmPersonal.resx" Description="File successfully backed up as D:\Documentos\Superpack\Backup\Papeleria\frmPersonal.resx">
+</Event><Event ErrorLevel="0" Project="Papeleria" Source="Papeleria\frmPrincipal.resx" Description="File successfully backed up as D:\Documentos\Superpack\Backup\Papeleria\frmPrincipal.resx">
+</Event><Event ErrorLevel="0" Project="Papeleria" Source="Papeleria\frmProdActualizados.resx" Description="File successfully backed up as D:\Documentos\Superpack\Backup\Papeleria\frmProdActualizados.resx">
+</Event><Event ErrorLevel="0" Project="Papeleria" Source="Papeleria\frmProductos.resx" Description="File successfully backed up as D:\Documentos\Superpack\Backup\Papeleria\frmProductos.resx">
+</Event><Event ErrorLevel="0" Project="Papeleria" Source="Papeleria\frmProductosRelacionados.resx" Description="File successfully backed up as D:\Documentos\Superpack\Backup\Papeleria\frmProductosRelacionados.resx">
+</Event><Event ErrorLevel="0" Project="Papeleria" Source="Papeleria\frmPromocion.resx" Description="File successfully backed up as D:\Documentos\Superpack\Backup\Papeleria\frmPromocion.resx">
+</Event><Event ErrorLevel="0" Project="Papeleria" Source="Papeleria\frmPromociones.resx" Description="File successfully backed up as D:\Documentos\Superpack\Backup\Papeleria\frmPromociones.resx">
+</Event><Event ErrorLevel="0" Project="Papeleria" Source="Papeleria\frmPromocionPieza.resx" Description="File successfully backed up as D:\Documentos\Superpack\Backup\Papeleria\frmPromocionPieza.resx">
+</Event><Event ErrorLevel="0" Project="Papeleria" Source="Papeleria\frmProveedor.resx" Description="File successfully backed up as D:\Documentos\Superpack\Backup\Papeleria\frmProveedor.resx">
+</Event><Event ErrorLevel="0" Project="Papeleria" Source="Papeleria\frmRecepServicio.resx" Description="File successfully backed up as D:\Documentos\Superpack\Backup\Papeleria\frmRecepServicio.resx">
+</Event><Event ErrorLevel="0" Project="Papeleria" Source="Papeleria\frmResumenCompras.resx" Description="File successfully backed up as D:\Documentos\Superpack\Backup\Papeleria\frmResumenCompras.resx">
+</Event><Event ErrorLevel="0" Project="Papeleria" Source="Papeleria\frmResumenVentas.resx" Description="File successfully backed up as D:\Documentos\Superpack\Backup\Papeleria\frmResumenVentas.resx">
+</Event><Event ErrorLevel="0" Project="Papeleria" Source="Papeleria\frmSalidas.resx" Description="File successfully backed up as D:\Documentos\Superpack\Backup\Papeleria\frmSalidas.resx">
+</Event><Event ErrorLevel="0" Project="Papeleria" Source="Papeleria\frmTraspaso.resx" Description="File successfully backed up as D:\Documentos\Superpack\Backup\Papeleria\frmTraspaso.resx">
+</Event><Event ErrorLevel="0" Project="Papeleria" Source="Papeleria\frmUsuarios.resx" Description="File successfully backed up as D:\Documentos\Superpack\Backup\Papeleria\frmUsuarios.resx">
+</Event><Event ErrorLevel="0" Project="Papeleria" Source="Papeleria\frmVales.resx" Description="File successfully backed up as D:\Documentos\Superpack\Backup\Papeleria\frmVales.resx">
+</Event><Event ErrorLevel="0" Project="Papeleria" Source="Papeleria\frmVendSinExist.resx" Description="File successfully backed up as D:\Documentos\Superpack\Backup\Papeleria\frmVendSinExist.resx">
+</Event><Event ErrorLevel="0" Project="Papeleria" Source="Papeleria\frmVenta.resx" Description="File successfully backed up as D:\Documentos\Superpack\Backup\Papeleria\frmVenta.resx">
+</Event><Event ErrorLevel="0" Project="Papeleria" Source="Papeleria\frmVerVentas.resx" Description="File successfully backed up as D:\Documentos\Superpack\Backup\Papeleria\frmVerVentas.resx">
+</Event><Event ErrorLevel="0" Project="Papeleria" Source="Papeleria\ImageButton.resx" Description="File successfully backed up as D:\Documentos\Superpack\Backup\Papeleria\ImageButton.resx">
+</Event><Event ErrorLevel="0" Project="Papeleria" Source="Papeleria\My Project\Resources.resx" Description="File successfully backed up as D:\Documentos\Superpack\Backup\Papeleria\My Project\Resources.resx">
+</Event><Event ErrorLevel="0" Project="Papeleria" Source="Papeleria\Papeleria.vbproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Papeleria" Source="Papeleria\Papeleria.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="AccesoDatos" Source="AccesoDatos\AccesoDatos.vbproj" Description="Project file successfully backed up as D:\Documentos\Superpack\Backup\AccesoDatos\AccesoDatos.vbproj">
+</Event><Event ErrorLevel="0" Project="AccesoDatos" Source="AccesoDatos\BaseDatos.vb" Description="File successfully backed up as D:\Documentos\Superpack\Backup\AccesoDatos\BaseDatos.vb">
+</Event><Event ErrorLevel="0" Project="AccesoDatos" Source="AccesoDatos\BaseDatosException.vb" Description="File successfully backed up as D:\Documentos\Superpack\Backup\AccesoDatos\BaseDatosException.vb">
+</Event><Event ErrorLevel="0" Project="AccesoDatos" Source="AccesoDatos\My Project\AssemblyInfo.vb" Description="File successfully backed up as D:\Documentos\Superpack\Backup\AccesoDatos\My Project\AssemblyInfo.vb">
+</Event><Event ErrorLevel="0" Project="AccesoDatos" Source="AccesoDatos\My Project\Application.Designer.vb" Description="File successfully backed up as D:\Documentos\Superpack\Backup\AccesoDatos\My Project\Application.Designer.vb">
+</Event><Event ErrorLevel="0" Project="AccesoDatos" Source="AccesoDatos\My Project\Resources.Designer.vb" Description="File successfully backed up as D:\Documentos\Superpack\Backup\AccesoDatos\My Project\Resources.Designer.vb">
+</Event><Event ErrorLevel="0" Project="AccesoDatos" Source="AccesoDatos\My Project\Settings.Designer.vb" Description="File successfully backed up as D:\Documentos\Superpack\Backup\AccesoDatos\My Project\Settings.Designer.vb">
+</Event><Event ErrorLevel="0" Project="AccesoDatos" Source="AccesoDatos\ses.vb" Description="File successfully backed up as D:\Documentos\Superpack\Backup\AccesoDatos\ses.vb">
+</Event><Event ErrorLevel="0" Project="AccesoDatos" Source="AccesoDatos\My Project\Application.myapp" Description="File successfully backed up as D:\Documentos\Superpack\Backup\AccesoDatos\My Project\Application.myapp">
+</Event><Event ErrorLevel="0" Project="AccesoDatos" Source="AccesoDatos\My Project\Settings.settings" Description="File successfully backed up as D:\Documentos\Superpack\Backup\AccesoDatos\My Project\Settings.settings">
+</Event><Event ErrorLevel="0" Project="AccesoDatos" Source="AccesoDatos\My Project\Resources.resx" Description="File successfully backed up as D:\Documentos\Superpack\Backup\AccesoDatos\My Project\Resources.resx">
+</Event><Event ErrorLevel="0" Project="AccesoDatos" Source="AccesoDatos\AccesoDatos.vbproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="AccesoDatos" Source="AccesoDatos\AccesoDatos.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="LogicaNegocio" Source="LogicaNegocio\LogicaNegocio.vbproj" Description="Project file successfully backed up as D:\Documentos\Superpack\Backup\LogicaNegocio\LogicaNegocio.vbproj">
+</Event><Event ErrorLevel="0" Project="LogicaNegocio" Source="LogicaNegocio\Abono.vb" Description="File successfully backed up as D:\Documentos\Superpack\Backup\LogicaNegocio\Abono.vb">
+</Event><Event ErrorLevel="0" Project="LogicaNegocio" Source="LogicaNegocio\AbonoApartado.vb" Description="File successfully backed up as D:\Documentos\Superpack\Backup\LogicaNegocio\AbonoApartado.vb">
+</Event><Event ErrorLevel="0" Project="LogicaNegocio" Source="LogicaNegocio\Apartado.vb" Description="File successfully backed up as D:\Documentos\Superpack\Backup\LogicaNegocio\Apartado.vb">
+</Event><Event ErrorLevel="0" Project="LogicaNegocio" Source="LogicaNegocio\BuscadorProductos.vb" Description="File successfully backed up as D:\Documentos\Superpack\Backup\LogicaNegocio\BuscadorProductos.vb">
+</Event><Event ErrorLevel="0" Project="LogicaNegocio" Source="LogicaNegocio\BuscarProveedor.vb" Description="File successfully backed up as D:\Documentos\Superpack\Backup\LogicaNegocio\BuscarProveedor.vb">
+</Event><Event ErrorLevel="0" Project="LogicaNegocio" Source="LogicaNegocio\CAbonoCuentaPagar.vb" Description="File successfully backed up as D:\Documentos\Superpack\Backup\LogicaNegocio\CAbonoCuentaPagar.vb">
+</Event><Event ErrorLevel="0" Project="LogicaNegocio" Source="LogicaNegocio\Caja.vb" Description="File successfully backed up as D:\Documentos\Superpack\Backup\LogicaNegocio\Caja.vb">
+</Event><Event ErrorLevel="0" Project="LogicaNegocio" Source="LogicaNegocio\CCompraDetalle.vb" Description="File successfully backed up as D:\Documentos\Superpack\Backup\LogicaNegocio\CCompraDetalle.vb">
+</Event><Event ErrorLevel="0" Project="LogicaNegocio" Source="LogicaNegocio\CCompras.vb" Description="File successfully backed up as D:\Documentos\Superpack\Backup\LogicaNegocio\CCompras.vb">
+</Event><Event ErrorLevel="0" Project="LogicaNegocio" Source="LogicaNegocio\Cliente.vb" Description="File successfully backed up as D:\Documentos\Superpack\Backup\LogicaNegocio\Cliente.vb">
+</Event><Event ErrorLevel="0" Project="LogicaNegocio" Source="LogicaNegocio\Codigo.vb" Description="File successfully backed up as D:\Documentos\Superpack\Backup\LogicaNegocio\Codigo.vb">
+</Event><Event ErrorLevel="0" Project="LogicaNegocio" Source="LogicaNegocio\Configuracion.vb" Description="File successfully backed up as D:\Documentos\Superpack\Backup\LogicaNegocio\Configuracion.vb">
+</Event><Event ErrorLevel="0" Project="LogicaNegocio" Source="LogicaNegocio\CorteDetalle.vb" Description="File successfully backed up as D:\Documentos\Superpack\Backup\LogicaNegocio\CorteDetalle.vb">
+</Event><Event ErrorLevel="0" Project="LogicaNegocio" Source="LogicaNegocio\Cortes.vb" Description="File successfully backed up as D:\Documentos\Superpack\Backup\LogicaNegocio\Cortes.vb">
+</Event><Event ErrorLevel="0" Project="LogicaNegocio" Source="LogicaNegocio\Cotizacion.vb" Description="File successfully backed up as D:\Documentos\Superpack\Backup\LogicaNegocio\Cotizacion.vb">
+</Event><Event ErrorLevel="0" Project="LogicaNegocio" Source="LogicaNegocio\CSalida.vb" Description="File successfully backed up as D:\Documentos\Superpack\Backup\LogicaNegocio\CSalida.vb">
+</Event><Event ErrorLevel="0" Project="LogicaNegocio" Source="LogicaNegocio\CSalidaDetalle.vb" Description="File successfully backed up as D:\Documentos\Superpack\Backup\LogicaNegocio\CSalidaDetalle.vb">
+</Event><Event ErrorLevel="0" Project="LogicaNegocio" Source="LogicaNegocio\CuentasCobrar.vb" Description="File successfully backed up as D:\Documentos\Superpack\Backup\LogicaNegocio\CuentasCobrar.vb">
+</Event><Event ErrorLevel="0" Project="LogicaNegocio" Source="LogicaNegocio\CuentasPagar.vb" Description="File successfully backed up as D:\Documentos\Superpack\Backup\LogicaNegocio\CuentasPagar.vb">
+</Event><Event ErrorLevel="0" Project="LogicaNegocio" Source="LogicaNegocio\Factura.vb" Description="File successfully backed up as D:\Documentos\Superpack\Backup\LogicaNegocio\Factura.vb">
+</Event><Event ErrorLevel="0" Project="LogicaNegocio" Source="LogicaNegocio\Faltantes.vb" Description="File successfully backed up as D:\Documentos\Superpack\Backup\LogicaNegocio\Faltantes.vb">
+</Event><Event ErrorLevel="0" Project="LogicaNegocio" Source="LogicaNegocio\Folio.vb" Description="File successfully backed up as D:\Documentos\Superpack\Backup\LogicaNegocio\Folio.vb">
+</Event><Event ErrorLevel="0" Project="LogicaNegocio" Source="LogicaNegocio\ItemServicio.vb" Description="File successfully backed up as D:\Documentos\Superpack\Backup\LogicaNegocio\ItemServicio.vb">
+</Event><Event ErrorLevel="0" Project="LogicaNegocio" Source="LogicaNegocio\linkBD.vb" Description="File successfully backed up as D:\Documentos\Superpack\Backup\LogicaNegocio\linkBD.vb">
+</Event><Event ErrorLevel="0" Project="LogicaNegocio" Source="LogicaNegocio\opFactura.vb" Description="File successfully backed up as D:\Documentos\Superpack\Backup\LogicaNegocio\opFactura.vb">
+</Event><Event ErrorLevel="0" Project="LogicaNegocio" Source="LogicaNegocio\opFolios.vb" Description="File successfully backed up as D:\Documentos\Superpack\Backup\LogicaNegocio\opFolios.vb">
+</Event><Event ErrorLevel="0" Project="LogicaNegocio" Source="LogicaNegocio\opServicio.vb" Description="File successfully backed up as D:\Documentos\Superpack\Backup\LogicaNegocio\opServicio.vb">
+</Event><Event ErrorLevel="0" Project="LogicaNegocio" Source="LogicaNegocio\opTraspaso.vb" Description="File successfully backed up as D:\Documentos\Superpack\Backup\LogicaNegocio\opTraspaso.vb">
+</Event><Event ErrorLevel="0" Project="LogicaNegocio" Source="LogicaNegocio\ProductoVSE.vb" Description="File successfully backed up as D:\Documentos\Superpack\Backup\LogicaNegocio\ProductoVSE.vb">
+</Event><Event ErrorLevel="0" Project="LogicaNegocio" Source="LogicaNegocio\ResumenCompras.vb" Description="File successfully backed up as D:\Documentos\Superpack\Backup\LogicaNegocio\ResumenCompras.vb">
+</Event><Event ErrorLevel="0" Project="LogicaNegocio" Source="LogicaNegocio\ResumenVentas.vb" Description="File successfully backed up as D:\Documentos\Superpack\Backup\LogicaNegocio\ResumenVentas.vb">
+</Event><Event ErrorLevel="0" Project="LogicaNegocio" Source="LogicaNegocio\ServiceCortes.vb" Description="File successfully backed up as D:\Documentos\Superpack\Backup\LogicaNegocio\ServiceCortes.vb">
+</Event><Event ErrorLevel="0" Project="LogicaNegocio" Source="LogicaNegocio\Service_Credito.vb" Description="File successfully backed up as D:\Documentos\Superpack\Backup\LogicaNegocio\Service_Credito.vb">
+</Event><Event ErrorLevel="0" Project="LogicaNegocio" Source="LogicaNegocio\Service_CuentaPagar.vb" Description="File successfully backed up as D:\Documentos\Superpack\Backup\LogicaNegocio\Service_CuentaPagar.vb">
+</Event><Event ErrorLevel="0" Project="LogicaNegocio" Source="LogicaNegocio\Service_Factura.vb" Description="File successfully backed up as D:\Documentos\Superpack\Backup\LogicaNegocio\Service_Factura.vb">
+</Event><Event ErrorLevel="0" Project="LogicaNegocio" Source="LogicaNegocio\Service_Folios.vb" Description="File successfully backed up as D:\Documentos\Superpack\Backup\LogicaNegocio\Service_Folios.vb">
+</Event><Event ErrorLevel="0" Project="LogicaNegocio" Source="LogicaNegocio\Service_PromocionPieza.vb" Description="File successfully backed up as D:\Documentos\Superpack\Backup\LogicaNegocio\Service_PromocionPieza.vb">
+</Event><Event ErrorLevel="0" Project="LogicaNegocio" Source="LogicaNegocio\opPromocionesPieza.vb" Description="File successfully backed up as D:\Documentos\Superpack\Backup\LogicaNegocio\opPromocionesPieza.vb">
+</Event><Event ErrorLevel="0" Project="LogicaNegocio" Source="LogicaNegocio\PromocionPieza.vb" Description="File successfully backed up as D:\Documentos\Superpack\Backup\LogicaNegocio\PromocionPieza.vb">
+</Event><Event ErrorLevel="0" Project="LogicaNegocio" Source="LogicaNegocio\CValidation.vb" Description="File successfully backed up as D:\Documentos\Superpack\Backup\LogicaNegocio\CValidation.vb">
+</Event><Event ErrorLevel="0" Project="LogicaNegocio" Source="LogicaNegocio\DatosTicket.vb" Description="File successfully backed up as D:\Documentos\Superpack\Backup\LogicaNegocio\DatosTicket.vb">
+</Event><Event ErrorLevel="0" Project="LogicaNegocio" Source="LogicaNegocio\Devolucion.vb" Description="File successfully backed up as D:\Documentos\Superpack\Backup\LogicaNegocio\Devolucion.vb">
+</Event><Event ErrorLevel="0" Project="LogicaNegocio" Source="LogicaNegocio\Devolucion_Item.vb" Description="File successfully backed up as D:\Documentos\Superpack\Backup\LogicaNegocio\Devolucion_Item.vb">
+</Event><Event ErrorLevel="0" Project="LogicaNegocio" Source="LogicaNegocio\FinalizarPago.vb" Description="File successfully backed up as D:\Documentos\Superpack\Backup\LogicaNegocio\FinalizarPago.vb">
+</Event><Event ErrorLevel="0" Project="LogicaNegocio" Source="LogicaNegocio\Grupo.vb" Description="File successfully backed up as D:\Documentos\Superpack\Backup\LogicaNegocio\Grupo.vb">
+</Event><Event ErrorLevel="0" Project="LogicaNegocio" Source="LogicaNegocio\ItemPaquete.vb" Description="File successfully backed up as D:\Documentos\Superpack\Backup\LogicaNegocio\ItemPaquete.vb">
+</Event><Event ErrorLevel="0" Project="LogicaNegocio" Source="LogicaNegocio\Linea.vb" Description="File successfully backed up as D:\Documentos\Superpack\Backup\LogicaNegocio\Linea.vb">
+</Event><Event ErrorLevel="0" Project="LogicaNegocio" Source="LogicaNegocio\opPaquetes.vb" Description="File successfully backed up as D:\Documentos\Superpack\Backup\LogicaNegocio\opPaquetes.vb">
+</Event><Event ErrorLevel="0" Project="LogicaNegocio" Source="LogicaNegocio\Paquete.vb" Description="File successfully backed up as D:\Documentos\Superpack\Backup\LogicaNegocio\Paquete.vb">
+</Event><Event ErrorLevel="0" Project="LogicaNegocio" Source="LogicaNegocio\pDevueltos.vb" Description="File successfully backed up as D:\Documentos\Superpack\Backup\LogicaNegocio\pDevueltos.vb">
+</Event><Event ErrorLevel="0" Project="LogicaNegocio" Source="LogicaNegocio\Personal.vb" Description="File successfully backed up as D:\Documentos\Superpack\Backup\LogicaNegocio\Personal.vb">
+</Event><Event ErrorLevel="0" Project="LogicaNegocio" Source="LogicaNegocio\Privilegio.vb" Description="File successfully backed up as D:\Documentos\Superpack\Backup\LogicaNegocio\Privilegio.vb">
+</Event><Event ErrorLevel="0" Project="LogicaNegocio" Source="LogicaNegocio\Producto.vb" Description="File successfully backed up as D:\Documentos\Superpack\Backup\LogicaNegocio\Producto.vb">
+</Event><Event ErrorLevel="0" Project="LogicaNegocio" Source="LogicaNegocio\Promocion.vb" Description="File successfully backed up as D:\Documentos\Superpack\Backup\LogicaNegocio\Promocion.vb">
+</Event><Event ErrorLevel="0" Project="LogicaNegocio" Source="LogicaNegocio\opPromociones.vb" Description="File successfully backed up as D:\Documentos\Superpack\Backup\LogicaNegocio\opPromociones.vb">
+</Event><Event ErrorLevel="0" Project="LogicaNegocio" Source="LogicaNegocio\Proveedor.vb" Description="File successfully backed up as D:\Documentos\Superpack\Backup\LogicaNegocio\Proveedor.vb">
+</Event><Event ErrorLevel="0" Project="LogicaNegocio" Source="LogicaNegocio\ReglasNegocioException.vb" Description="File successfully backed up as D:\Documentos\Superpack\Backup\LogicaNegocio\ReglasNegocioException.vb">
+</Event><Event ErrorLevel="0" Project="LogicaNegocio" Source="LogicaNegocio\Service_AbonoAp.vb" Description="File successfully backed up as D:\Documentos\Superpack\Backup\LogicaNegocio\Service_AbonoAp.vb">
+</Event><Event ErrorLevel="0" Project="LogicaNegocio" Source="LogicaNegocio\Service_Apartado.vb" Description="File successfully backed up as D:\Documentos\Superpack\Backup\LogicaNegocio\Service_Apartado.vb">
+</Event><Event ErrorLevel="0" Project="LogicaNegocio" Source="LogicaNegocio\Service_Caja.vb" Description="File successfully backed up as D:\Documentos\Superpack\Backup\LogicaNegocio\Service_Caja.vb">
+</Event><Event ErrorLevel="0" Project="LogicaNegocio" Source="LogicaNegocio\Service_Cliente.vb" Description="File successfully backed up as D:\Documentos\Superpack\Backup\LogicaNegocio\Service_Cliente.vb">
+</Event><Event ErrorLevel="0" Project="LogicaNegocio" Source="LogicaNegocio\Service_Codigos.vb" Description="File successfully backed up as D:\Documentos\Superpack\Backup\LogicaNegocio\Service_Codigos.vb">
+</Event><Event ErrorLevel="0" Project="LogicaNegocio" Source="LogicaNegocio\Service_Compra.vb" Description="File successfully backed up as D:\Documentos\Superpack\Backup\LogicaNegocio\Service_Compra.vb">
+</Event><Event ErrorLevel="0" Project="LogicaNegocio" Source="LogicaNegocio\Service_Configuracion.vb" Description="File successfully backed up as D:\Documentos\Superpack\Backup\LogicaNegocio\Service_Configuracion.vb">
+</Event><Event ErrorLevel="0" Project="LogicaNegocio" Source="LogicaNegocio\Service_cotizacion.vb" Description="File successfully backed up as D:\Documentos\Superpack\Backup\LogicaNegocio\Service_cotizacion.vb">
+</Event><Event ErrorLevel="0" Project="LogicaNegocio" Source="LogicaNegocio\Service_Devolucion.vb" Description="File successfully backed up as D:\Documentos\Superpack\Backup\LogicaNegocio\Service_Devolucion.vb">
+</Event><Event ErrorLevel="0" Project="LogicaNegocio" Source="LogicaNegocio\Service_Grupos.vb" Description="File successfully backed up as D:\Documentos\Superpack\Backup\LogicaNegocio\Service_Grupos.vb">
+</Event><Event ErrorLevel="0" Project="LogicaNegocio" Source="LogicaNegocio\Service_linea.vb" Description="File successfully backed up as D:\Documentos\Superpack\Backup\LogicaNegocio\Service_linea.vb">
+</Event><Event ErrorLevel="0" Project="LogicaNegocio" Source="LogicaNegocio\Service_Paquete.vb" Description="File successfully backed up as D:\Documentos\Superpack\Backup\LogicaNegocio\Service_Paquete.vb">
+</Event><Event ErrorLevel="0" Project="LogicaNegocio" Source="LogicaNegocio\Service_Personal.vb" Description="File successfully backed up as D:\Documentos\Superpack\Backup\LogicaNegocio\Service_Personal.vb">
+</Event><Event ErrorLevel="0" Project="LogicaNegocio" Source="LogicaNegocio\Service_Privilegios.vb" Description="File successfully backed up as D:\Documentos\Superpack\Backup\LogicaNegocio\Service_Privilegios.vb">
+</Event><Event ErrorLevel="0" Project="LogicaNegocio" Source="LogicaNegocio\Service_Producto.vb" Description="File successfully backed up as D:\Documentos\Superpack\Backup\LogicaNegocio\Service_Producto.vb">
+</Event><Event ErrorLevel="0" Project="LogicaNegocio" Source="LogicaNegocio\Service_Promocion.vb" Description="File successfully backed up as D:\Documentos\Superpack\Backup\LogicaNegocio\Service_Promocion.vb">
+</Event><Event ErrorLevel="0" Project="LogicaNegocio" Source="LogicaNegocio\Service_Proveedor.vb" Description="File successfully backed up as D:\Documentos\Superpack\Backup\LogicaNegocio\Service_Proveedor.vb">
+</Event><Event ErrorLevel="0" Project="LogicaNegocio" Source="LogicaNegocio\Service_Salida.vb" Description="File successfully backed up as D:\Documentos\Superpack\Backup\LogicaNegocio\Service_Salida.vb">
+</Event><Event ErrorLevel="0" Project="LogicaNegocio" Source="LogicaNegocio\Service_Servicio.vb" Description="File successfully backed up as D:\Documentos\Superpack\Backup\LogicaNegocio\Service_Servicio.vb">
+</Event><Event ErrorLevel="0" Project="LogicaNegocio" Source="LogicaNegocio\Service_ServicioP.vb" Description="File successfully backed up as D:\Documentos\Superpack\Backup\LogicaNegocio\Service_ServicioP.vb">
+</Event><Event ErrorLevel="0" Project="LogicaNegocio" Source="LogicaNegocio\Service_Traspaso.vb" Description="File successfully backed up as D:\Documentos\Superpack\Backup\LogicaNegocio\Service_Traspaso.vb">
+</Event><Event ErrorLevel="0" Project="LogicaNegocio" Source="LogicaNegocio\Service_Usuario.vb" Description="File successfully backed up as D:\Documentos\Superpack\Backup\LogicaNegocio\Service_Usuario.vb">
+</Event><Event ErrorLevel="0" Project="LogicaNegocio" Source="LogicaNegocio\Service_Vale.vb" Description="File successfully backed up as D:\Documentos\Superpack\Backup\LogicaNegocio\Service_Vale.vb">
+</Event><Event ErrorLevel="0" Project="LogicaNegocio" Source="LogicaNegocio\Service_Venta.vb" Description="File successfully backed up as D:\Documentos\Superpack\Backup\LogicaNegocio\Service_Venta.vb">
+</Event><Event ErrorLevel="0" Project="LogicaNegocio" Source="LogicaNegocio\Servicio.vb" Description="File successfully backed up as D:\Documentos\Superpack\Backup\LogicaNegocio\Servicio.vb">
+</Event><Event ErrorLevel="0" Project="LogicaNegocio" Source="LogicaNegocio\ServicioItem.vb" Description="File successfully backed up as D:\Documentos\Superpack\Backup\LogicaNegocio\ServicioItem.vb">
+</Event><Event ErrorLevel="0" Project="LogicaNegocio" Source="LogicaNegocio\ServicioP.vb" Description="File successfully backed up as D:\Documentos\Superpack\Backup\LogicaNegocio\ServicioP.vb">
+</Event><Event ErrorLevel="0" Project="LogicaNegocio" Source="LogicaNegocio\Tarjeta.vb" Description="File successfully backed up as D:\Documentos\Superpack\Backup\LogicaNegocio\Tarjeta.vb">
+</Event><Event ErrorLevel="0" Project="LogicaNegocio" Source="LogicaNegocio\Ticket.vb" Description="File successfully backed up as D:\Documentos\Superpack\Backup\LogicaNegocio\Ticket.vb">
+</Event><Event ErrorLevel="0" Project="LogicaNegocio" Source="LogicaNegocio\Traspaso.vb" Description="File successfully backed up as D:\Documentos\Superpack\Backup\LogicaNegocio\Traspaso.vb">
+</Event><Event ErrorLevel="0" Project="LogicaNegocio" Source="LogicaNegocio\Usuario.vb" Description="File successfully backed up as D:\Documentos\Superpack\Backup\LogicaNegocio\Usuario.vb">
+</Event><Event ErrorLevel="0" Project="LogicaNegocio" Source="LogicaNegocio\Utils.vb" Description="File successfully backed up as D:\Documentos\Superpack\Backup\LogicaNegocio\Utils.vb">
+</Event><Event ErrorLevel="0" Project="LogicaNegocio" Source="LogicaNegocio\My Project\AssemblyInfo.vb" Description="File successfully backed up as D:\Documentos\Superpack\Backup\LogicaNegocio\My Project\AssemblyInfo.vb">
+</Event><Event ErrorLevel="0" Project="LogicaNegocio" Source="LogicaNegocio\My Project\Application.Designer.vb" Description="File successfully backed up as D:\Documentos\Superpack\Backup\LogicaNegocio\My Project\Application.Designer.vb">
+</Event><Event ErrorLevel="0" Project="LogicaNegocio" Source="LogicaNegocio\My Project\Resources.Designer.vb" Description="File successfully backed up as D:\Documentos\Superpack\Backup\LogicaNegocio\My Project\Resources.Designer.vb">
+</Event><Event ErrorLevel="0" Project="LogicaNegocio" Source="LogicaNegocio\My Project\Settings.Designer.vb" Description="File successfully backed up as D:\Documentos\Superpack\Backup\LogicaNegocio\My Project\Settings.Designer.vb">
+</Event><Event ErrorLevel="0" Project="LogicaNegocio" Source="LogicaNegocio\Vales.vb" Description="File successfully backed up as D:\Documentos\Superpack\Backup\LogicaNegocio\Vales.vb">
+</Event><Event ErrorLevel="0" Project="LogicaNegocio" Source="LogicaNegocio\Venta.vb" Description="File successfully backed up as D:\Documentos\Superpack\Backup\LogicaNegocio\Venta.vb">
+</Event><Event ErrorLevel="0" Project="LogicaNegocio" Source="LogicaNegocio\VentaItem.vb" Description="File successfully backed up as D:\Documentos\Superpack\Backup\LogicaNegocio\VentaItem.vb">
+</Event><Event ErrorLevel="0" Project="LogicaNegocio" Source="LogicaNegocio\VerPromociones.vb" Description="File successfully backed up as D:\Documentos\Superpack\Backup\LogicaNegocio\VerPromociones.vb">
+</Event><Event ErrorLevel="0" Project="LogicaNegocio" Source="LogicaNegocio\My Project\Application.myapp" Description="File successfully backed up as D:\Documentos\Superpack\Backup\LogicaNegocio\My Project\Application.myapp">
+</Event><Event ErrorLevel="0" Project="LogicaNegocio" Source="LogicaNegocio\My Project\Settings.settings" Description="File successfully backed up as D:\Documentos\Superpack\Backup\LogicaNegocio\My Project\Settings.settings">
+</Event><Event ErrorLevel="0" Project="LogicaNegocio" Source="LogicaNegocio\My Project\Resources.resx" Description="File successfully backed up as D:\Documentos\Superpack\Backup\LogicaNegocio\My Project\Resources.resx">
+</Event><Event ErrorLevel="0" Project="LogicaNegocio" Source="LogicaNegocio\LogicaNegocio.vbproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="LogicaNegocio" Source="LogicaNegocio\LogicaNegocio.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Papeleria.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Papeleria.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Papeleria" Source="Papeleria\Papeleria.vbproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="AccesoDatos" Source="AccesoDatos\AccesoDatos.vbproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="LogicaNegocio" Source="LogicaNegocio\LogicaNegocio.vbproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

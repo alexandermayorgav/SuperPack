@@ -1,0 +1,221 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.30729</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{3E39C827-5822-4226-97CA-C4BEE75F5751}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <RootNamespace>LogicaNegocio</RootNamespace>
+    <AssemblyName>LogicaNegocio</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>Windows</MyType>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <OptionExplicit>On</OptionExplicit>
+    <OptionCompare>Binary</OptionCompare>
+    <OptionStrict>Off</OptionStrict>
+    <OptionInfer>On</OptionInfer>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <OldToolsVersion>3.5</OldToolsVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>LogicaNegocio.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022,42353,42354,42355</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>LogicaNegocio.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022,42353,42354,42355</NoWarn>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="FirebirdSql.Data.FirebirdClient, Version=2.5.2.0, Culture=neutral, PublicKeyToken=3750abcc3150b00c, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\AccesoDatos\bin\Debug\FirebirdSql.Data.FirebirdClient.dll</HintPath>
+    </Reference>
+    <Reference Include="Newtonsoft.Json, Version=3.5.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\monoreports\build\antes\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Abono.vb" />
+    <Compile Include="AbonoApartado.vb" />
+    <Compile Include="Apartado.vb" />
+    <Compile Include="BuscadorProductos.vb" />
+    <Compile Include="BuscarProveedor.vb" />
+    <Compile Include="CAbonoCuentaPagar.vb" />
+    <Compile Include="Caja.vb" />
+    <Compile Include="CCompraDetalle.vb" />
+    <Compile Include="CCompras.vb" />
+    <Compile Include="Cliente.vb" />
+    <Compile Include="Codigo.vb" />
+    <Compile Include="Configuracion.vb" />
+    <Compile Include="CorteDetalle.vb" />
+    <Compile Include="Cortes.vb" />
+    <Compile Include="Cotizacion.vb" />
+    <Compile Include="CSalida.vb" />
+    <Compile Include="CSalidaDetalle.vb" />
+    <Compile Include="CuentasCobrar.vb" />
+    <Compile Include="CuentasPagar.vb" />
+    <Compile Include="Factura.vb" />
+    <Compile Include="Faltantes.vb" />
+    <Compile Include="Folio.vb" />
+    <Compile Include="ItemServicio.vb" />
+    <Compile Include="linkBD.vb" />
+    <Compile Include="opFactura.vb" />
+    <Compile Include="opFolios.vb" />
+    <Compile Include="opServicio.vb" />
+    <Compile Include="opTraspaso.vb" />
+    <Compile Include="ProductoVSE.vb" />
+    <Compile Include="ResumenCompras.vb" />
+    <Compile Include="ResumenVentas.vb" />
+    <Compile Include="ServiceCortes.vb" />
+    <Compile Include="Service_Credito.vb" />
+    <Compile Include="Service_CuentaPagar.vb" />
+    <Compile Include="Service_Factura.vb" />
+    <Compile Include="Service_Folios.vb" />
+    <Compile Include="Service_PromocionPieza.vb" />
+    <Compile Include="opPromocionesPieza.vb" />
+    <Compile Include="PromocionPieza.vb" />
+    <Compile Include="CValidation.vb" />
+    <Compile Include="DatosTicket.vb" />
+    <Compile Include="Devolucion.vb" />
+    <Compile Include="Devolucion_Item.vb" />
+    <Compile Include="FinalizarPago.vb" />
+    <Compile Include="Grupo.vb" />
+    <Compile Include="ItemPaquete.vb" />
+    <Compile Include="Linea.vb" />
+    <Compile Include="opPaquetes.vb" />
+    <Compile Include="Paquete.vb" />
+    <Compile Include="pDevueltos.vb" />
+    <Compile Include="Personal.vb" />
+    <Compile Include="Privilegio.vb" />
+    <Compile Include="Producto.vb" />
+    <Compile Include="Promocion.vb" />
+    <Compile Include="opPromociones.vb" />
+    <Compile Include="Proveedor.vb" />
+    <Compile Include="ReglasNegocioException.vb" />
+    <Compile Include="Service_AbonoAp.vb" />
+    <Compile Include="Service_Apartado.vb" />
+    <Compile Include="Service_Caja.vb" />
+    <Compile Include="Service_Cliente.vb" />
+    <Compile Include="Service_Codigos.vb" />
+    <Compile Include="Service_Compra.vb" />
+    <Compile Include="Service_Configuracion.vb" />
+    <Compile Include="Service_cotizacion.vb" />
+    <Compile Include="Service_Devolucion.vb" />
+    <Compile Include="Service_Grupos.vb" />
+    <Compile Include="Service_linea.vb" />
+    <Compile Include="Service_Paquete.vb" />
+    <Compile Include="Service_Personal.vb" />
+    <Compile Include="Service_Privilegios.vb" />
+    <Compile Include="Service_Producto.vb" />
+    <Compile Include="Service_Promocion.vb" />
+    <Compile Include="Service_Proveedor.vb" />
+    <Compile Include="Service_Salida.vb" />
+    <Compile Include="Service_Servicio.vb" />
+    <Compile Include="Service_ServicioP.vb" />
+    <Compile Include="Service_Traspaso.vb" />
+    <Compile Include="Service_Usuario.vb" />
+    <Compile Include="Service_Vale.vb" />
+    <Compile Include="Service_Venta.vb" />
+    <Compile Include="Servicio.vb" />
+    <Compile Include="ServicioItem.vb" />
+    <Compile Include="ServicioP.vb" />
+    <Compile Include="Tarjeta.vb" />
+    <Compile Include="Ticket.vb" />
+    <Compile Include="Traspaso.vb" />
+    <Compile Include="Usuario.vb" />
+    <Compile Include="Utils.vb" />
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="Vales.vb" />
+    <Compile Include="Venta.vb" />
+    <Compile Include="VentaItem.vb" />
+    <Compile Include="VerPromociones.vb" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\AccesoDatos\AccesoDatos.vbproj">
+      <Project>{FE3B44EC-06D7-4999-A69C-003C779DFC17}</Project>
+      <Name>AccesoDatos</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
